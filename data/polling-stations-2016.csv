@@ -1,0 +1,596 @@
+station,name_eng,name_chi,address_eng,address_chi,district_eng,district_chi,poll_only,lat,lng
+A0101,"Joint Professional Centre","專業聯合中心","Unit 1, G/F, The Center, 99 Queen's Road Central, Central, Hong Kong","香港中環皇后大道中99號中環中心地下1室",Central and Western District,中西區,False,22.2846159,114.1547235
+A0102,"Hong Kong Park Sports Centre","香港公園體育館","29 Cotton Tree Drive, Central, Hong Kong","香港中環紅棉路29號",Central and Western District,中西區,False,22.2772895,114.1593161
+A0201,"Raimondi College","高主教書院","2 Robinson Road, Hong Kong","香港羅便臣道2號",Central and Western District,中西區,False,22.2783056,114.1534215
+A0301,"Hong Kong True Light Kindergarten (Caine Road)","香港真光幼稚園(堅道)","G/F-2/F, 75 Caine Road, Hong Kong","香港堅道75號地下至2樓",Central and Western District,中西區,False,22.2815372,114.1519302
+A0302,"Centre for Food Safety (Hospital Road Office), Food and Environmental Hygiene Department","食物環境衞生署食物安全中心(醫院道辦事處)","4 Hospital Road, Hong Kong","香港醫院道4號",Central and Western District,中西區,False,22.2838566,114.1470245
+A0401,"German Swiss International School Peak Campus","德瑞國際學校山頂校舍","Middle Building, German Swiss International School Peak Campus, 22 Guildford Road, The Peak, Hong Kong","香港山頂僑福道22號德瑞國際學校山頂校舍中座",Central and Western District,中西區,False,22.2655664,114.160906
+A0501,"Sai Ying Pun Community Complex Community Hall","西營盤社區綜合大樓社區會堂","3/F, Sai Ying Pun Community Complex, 2 High Street, Sai Ying Pun, Hong Kong","香港西營盤高街2號西營盤社區綜合大樓3樓",Central and Western District,中西區,False,22.284894,114.1440843
+A0601,"HKYWCA Western District Integrated Social Service Centre","香港基督教女青年會西環綜合社會服務處","Flat A, 1/F, Block 1, Centenary Mansion, 9-15 Victoria Road, Western District, Hong Kong","香港西環域多利道9-15號百年大樓第1期A座2樓",Central and Western District,中西區,False,22.2819131,114.1257545
+A0701,"Smithfield Sports Centre","士美非路體育館","4/F, Smithfield Municipal Services Building, 12K Smithfield, Kennedy Town, Hong Kong","香港堅尼地城士美菲路12號K士美非路市政大廈4樓",Central and Western District,中西區,False,22.2817561,114.1286842
+A0801,"Kennedy Town Community Complex (Multi-purpose Function Room)","堅尼地城社區綜合大樓(綜合用途室)","2/F, 12 Rock Hill Street, Kennedy Town, Hong Kong","香港堅尼地城石山街12號2樓",Central and Western District,中西區,False,22.281839,114.129117
+A0901,"Victoria (Belcher) Kindergarten","維多利亞(寶翠園)幼稚園","Podium Level 3 (Kindergarten Area), The Westwood, 8 Belcher's Street, Hong Kong","香港卑路乍街8號西寶城3樓(幼稚園)",Central and Western District,中西區,False,22.285595,114.132989
+A1001,"Shek Tong Tsui Sports Centre","石塘咀體育館","5/F, Shek Tong Tsui Municipal Services Building, 470 Queen's Road West, Hong Kong","香港皇后大道西470號石塘咀市政大廈5樓",Central and Western District,中西區,False,22.2855509,114.136164
+A1101,"Central and Western / Islands Social Security Field Unit","中西區及離島區社會保障辦事處","3/F, Tung Che Commercial Centre, 246 Des Voeux Road West, Hong Kong","香港德輔道西246號東慈商業中心3樓",Central and Western District,中西區,False,22.2877571,114.1416654
+A1102,"Sun Yat Sen Memorial Park Sports Centre","中山紀念公園體育館","18 Eastern Street North, Sai Ying Pun, Hong Kong","香港西營盤東邊街北18號",Central and Western District,中西區,False,22.2900699,114.143516
+A1201,"Sheung Wan Post Office","上環郵政局","1/F, West Exchange Tower, 322-324 Des Voeux Road Central, Sheung Wan, Hong Kong","香港上環德輔道中322-324號西區電話機樓1樓",Central and Western District,中西區,False,22.28676,114.150187
+A1301,"San Wui Commercial Society School","新會商會學校","1 Kui In Fong, Sheung Wan, Hong Kong","香港上環居賢坊1號",Central and Western District,中西區,False,22.283998,114.1489119
+A1302,"SKH St. Matthew's Primary School","聖公會聖馬太小學","12-20 New Street, Sheung Wan, Hong Kong","香港上環新街12-20號",Central and Western District,中西區,False,22.2857555,114.1466754
+A1401,"Tsung Tsin Mission of Hong Kong Kau Yan Church and Kau Yan School","基督教香港崇真會救恩堂及救恩學校","G/F, 96 Third Street, Sai Ying Pun, Hong Kong","香港西營盤第三街96號地下",Central and Western District,中西區,False,22.2856837,114.1411278
+A1501,"Li Sing Primary School","李陞小學","119 High Street, Sai Ying Pun, Hong Kong","香港西營盤高街119號",Central and Western District,中西區,False,22.2853438,114.1398188
+B0101,"Hennessy Road Government Primary School","軒尼詩道官立小學","169 Thomson Road, Wan Chai, Hong Kong","香港灣仔譚臣道169號",Wan Chai District,灣仔區,False,22.277429,114.175597
+B0201,"Tang Shiu Kin Victoria Government Secondary School","鄧肇堅維多利亞官立中學","5 Oi Kwan Road, Wan Chai, Hong Kong","香港灣仔愛群道5號",Wan Chai District,灣仔區,False,22.2769571,114.1789084
+B0301,"Former Wanchai School","前灣仔學校","30 Oi Kwan Road, Wan Chai, Hong Kong","香港灣仔愛群道30號",Wan Chai District,灣仔區,False,22.2765084,114.1797891
+B0401,"Queen’s College","皇仁書院","120 Causeway Road, Causeway Bay, Hong Kong","香港銅鑼灣高士威道120號",Wan Chai District,灣仔區,False,22.2811486,114.1915635
+B0501,"Island Children's Montessori School","港島兒童蒙特梭利學校","Unit B, UG/F, 16 Tin Hau Temple Road, Tin Hau, Hong Kong","香港北角天后廟道16號地下B舖",Wan Chai District,灣仔區,False,22.2832014,114.1932274
+B0502,"Covered Carpark of Tsuen Wing Lau, Lai Tak Tsuen","勵德邨邨榮樓有蓋停車場","Lai Tak Tsuen, 34 Lai Tak Tsuen Road, Tai Hang, Hong Kong","香港大坑勵德邨道34號勵德邨",Wan Chai District,灣仔區,False,22.2788096,114.1939449
+B0601,"Wan Chai District Arts, Cultural, Recreational & Sports Association","灣仔區文娛康樂體育會","Moreton Terrace, Underneath Tai Hang Road, Flyover, Causeway Bay, Hong Kong (Beside Hong Kong Central Library)","香港銅鑼灣大坑道摩頓台 (香港中央圖書館側)",Wan Chai District,灣仔區,False,22.2859787,114.1914919
+B0701,"Wan Chai District Women's Association","港灣婦女會","Moreton Terrace, Causeway Bay, Hong Kong","香港銅鑼灣摩頓台",Wan Chai District,灣仔區,False,22.2795036,114.1890613
+B0801,"CCC Kung Lee College","中華基督教會公理高中書院","17 Tai Hang Drive, Causeway Bay, Hong Kong","香港銅鑼灣大坑徑17號",Wan Chai District,灣仔區,False,22.2747769,114.1937511
+B0901,"Leighton Hill Community Hall","禮頓山社區會堂","133 Wong Nai Chung Road, Happy Valley, Hong Kong","香港跑馬地黃泥涌道133號",Wan Chai District,灣仔區,False,22.2752981,114.1833041
+B1001,"Wong Nai Chung Sports Centre","黃泥涌體育館","6/F, Wong Nai Chung Municipal Services Building, 2 Yuk Sau Street, Happy Valley, Hong Kong","香港跑馬地毓秀街2號黃泥涌市政大廈6樓",Wan Chai District,灣仔區,False,22.2689666,114.1857846
+B1101,"Precious Blood Primary School","寶血小學","72 Sing Woo Road, Happy Valley, Hong Kong","香港跑馬地成和道72號",Wan Chai District,灣仔區,False,22.266268,114.1880091
+B1102,"Hong Kong Children & Youth Services Sing Woo Children & Youth Centre","香港青少年服務處成和青少年中心","G/F, 20 Kwai Sing Lane, Happy Valley, Hong Kong","香港跑馬地桂成里20號誠和閣地下",Wan Chai District,灣仔區,False,22.2673549,114.1867872
+B1201,"Wan Chai Post Office","灣仔郵政局","2/F, Wu Chung House, 197-213 Queen's Road East, Wan Chai, Hong Kong","香港灣仔皇后大道東197-213號胡忠大廈2樓",Wan Chai District,灣仔區,False,22.2742239,114.1728051
+B1301,"Methodist Centre","循道衛理中心","2/F, 22 Hennessy Road, Wan Chai, Hong Kong","香港灣仔軒尼詩道22號2樓",Wan Chai District,灣仔區,False,22.2774827,114.1689607
+C0101,"Eastern District JPC Club House","東區少年警訊會所","Shop P512-513, Hing On Mansion, 5 Tai Yue Avenue, Taikoo Shing, Hong Kong","香港太古城太裕路5號興安閣平台512-513號",Eastern District,東區,False,22.2863034,114.2141005
+C0201,"St. Anna Anglo-Chinese Kindergarten","聖安娜中英文幼稚園","Podium, Nam Hoi Mansion, 2 Tai Wing Avenue, Taikoo Shing, Quarry Bay, Hong Kong","香港鰂魚涌太古城太榮路2號南海閣平台",Eastern District,東區,False,22.2827206,114.2123009
+C0202,"Tai Koo Shing Post Office","太古城郵政局","Shop G1020-1022, G/F, Kam Sing Mansion, 1-3 Tai Fung Avenue, Taikoo Shing, Hong Kong","香港太古城太豐路1-3號金星閣地下G1020-1022號",Eastern District,東區,False,22.287032,114.218731
+C0301,"Sai Wan Ho Health Centre","西灣河健康中心","G/F, 28 Tai Hong Street, Sai Wan Ho, Hong Kong","香港西灣河太康街28號地下",Eastern District,東區,False,22.2846477,114.2236851
+C0401,"CCC Kei Wan Primary School (Aldrich Bay)","中華基督教會基灣小學(愛蝶灣)","39 Oi Shun Road, Shau Kei Wan, Hong Kong","香港筲箕灣愛信道39號",Eastern District,東區,False,22.2814331,114.2259271
+C0501,"Shau Kei Wan Post Office","筲箕灣郵政局","G/F, Perfect Mount Gardens, 1 Po Man Street, Shau Kei Wan, Hong Kong","香港筲箕灣寶文街1號峻峰花園地下",Eastern District,東區,False,22.2788285,114.2286245
+C0601,"Aldrich Bay Government Primary School","愛秩序灣官立小學","1 Oi Lai Street, Shau Kei Wan, Hong Kong","香港筲箕灣愛禮街1號",Eastern District,東區,False,22.2825334,114.2287059
+C0602,"Shau Kei Wan Government Primary School","筲箕灣官立小學","19 Shau Kei Wan Main Street East, Shau Kei Wan, Hong Kong","香港筲箕灣筲箕灣東大街19號",Eastern District,東區,False,22.2809335,114.230957
+C0701,"Lingnan Secondary School","嶺南中學","6 Shing Hong Lane, Heng Fa Chuen, Hong Kong","香港杏花邨盛康里6號",Eastern District,東區,False,22.396428,114.109497
+C0801,"SKH Li Fook Hing Secondary School","聖公會李福慶中學","Tsui Wan Estate,Tsui Wan Street, Chai Wan, Hong Kong","香港柴灣翠灣街翠灣邨",Eastern District,東區,False,22.268195,114.2400845
+C0901,"Fukien Secondary School (Siu Sai Wan)","福建中學(小西灣)","2 Fu Yee Road, Siu Sai Wan, Chai Wan, Hong Kong","香港柴灣小西灣富怡道2號",Eastern District,東區,False,22.264859,114.250638
+C1001,"Siu Sai Wan Community Hall","小西灣社區會堂","G/F, Siu Sai Wan Complex, 15 Siu Sai Wan Road, Chai Wan, Hong Kong","香港柴灣小西灣道15號小西灣綜合大樓地下",Eastern District,東區,False,22.2635945,114.2495465
+C1101,"Lingnan Hang Yee Memorial Secondary School","嶺南衡怡紀念中學","31 Siu Sai Wan Road, Chai Wan, Hong Kong","香港柴灣小西灣道31號",Eastern District,東區,False,22.2635435,114.2510679
+C1201,"The Salvation Army Centaline Charity Fund School","救世軍中原慈善基金學校","9 Wah Ha Street, Chai Wan, Hong Kong","香港柴灣華廈街9號",Eastern District,東區,False,22.262044,114.237624
+C1301,"Cognitio College (Hong Kong)","文理書院(香港)","4 Sui Man Road, Chai Wan, Hong Kong","香港柴灣萃文道4號",Eastern District,東區,False,22.261958,114.233277
+C1401,"Quarry Bay Sports Centre","鰂魚涌體育館","7/F, Quarry Bay Municipal Services Building, 38 Quarry Bay Street, Hong Kong","香港鰂魚涌街38號鰂魚涌市政大廈7樓",Eastern District,東區,False,22.283694,114.2118075
+C1501,"Man Kiu College","閩僑中學","81 Cloud View Road, North Point, Hong Kong","香港北角雲景道81號",Eastern District,東區,False,22.2873725,114.1998289
+C1601,"Clementi Secondary School","金文泰中學","30 Fortress Hill Road, North Point, Hong Kong","香港北角炮台山道30號",Eastern District,東區,False,22.287565,114.1949691
+C1701,"Causeway Bay Community Centre","銅鑼灣社區中心","7 Fook Yum Road, Causeway Bay, Hong Kong","香港銅鑼灣福蔭道7號",Eastern District,東區,False,22.288464,114.191114
+C1801,"Java Road Sports Centre","渣華道體育館","3/F, Java Road Municipal Services Building, 99 Java Road, North Point, Hong Kong","香港北角渣華道99號渣華道市政大廈3樓",Eastern District,東區,False,22.2923195,114.1994045
+C1802,"Henrietta Secondary School","顯理中學","2 City Garden Road, North Point, Hong Kong","香港北角城市花園道2號",Eastern District,東區,False,22.2917065,114.194493
+C1901,"North Point Methodist Primary School","北角衞理小學","19 Cheung Hong Street, North Point, Hong Kong","香港北角長康街19號",Eastern District,東區,False,22.2891428,114.1959411
+C2001,"HKPA Jockey Club North Point Island Place Integrated Service Centre for Children and Youth","香港遊樂場協會賽馬會北角港運城青少年綜合服務中心","2/F, Island Place, 53 Tanner Road, North Point, Hong Kong","香港北角丹拿道53號港運城2樓",Eastern District,東區,False,22.290972,114.202643
+C2101,"Chan's Creative School (Hong Kong Island)","啟基學校(港島)","82 Marble Road, North Point, Hong Kong","香港北角馬寶道82號",Eastern District,東區,False,22.29201,114.2027524
+C2201,"Chinese Methodist School, Tanner Hill","丹拿山循道學校","4 Pak Fuk Road, North Point, Hong Kong","香港北角百福道4號",Eastern District,東區,False,22.2907026,114.205156
+C2301,"North Point Government Primary School","北角官立小學","888 King's Road, Quarry Bay, Hong Kong","香港鰂魚涌英皇道888號",Eastern District,東區,False,22.2888435,114.2094715
+C2401,"Quarry Bay Community Hall","鰂魚涌社區會堂","G/F, Quarry Bay Community Complex, 1 Greig Road, Quarry Bay, Hong Kong","香港鰂魚涌基利路1號鰂魚涌社區綜合大樓地下",Eastern District,東區,False,22.28375,114.2139985
+C2501,"Buddhist Chung Wah Kornhill Primary School","佛教中華康山學校","2 Hong Yue Street, Quarry Bay, Hong Kong","香港鰂魚涌康愉街2號",Eastern District,東區,False,22.2809541,114.214099
+C2601,"Taikoo Primary School","太古小學","1100 King's Road, Quarry Bay, Hong Kong","香港鰂魚涌英皇道1100號",Eastern District,東區,False,22.2839235,114.2148049
+C2701,"Ching Chung Hing Tung Kindergarten","青松興東幼稚園","G/F, Hing Cho House, Hing Tung Estate, Shau Kei Wan, Hong Kong","香港筲箕灣興東邨興祖樓地下",Eastern District,東區,False,22.2816434,114.2193523
+C2702,"Islamic Abu Bakar Chui Memorial Kindergarten","伊斯蘭徐錦享紀念幼稚園","G/F, King Hei House, Tung Hei Court, Shau Kei Wan, Hong Kong","香港筲箕灣東熹苑景熹閣地下",Eastern District,東區,False,22.280656,114.219088
+C2801,"Sai Wan Ho Sports Centre","西灣河體育館","2/F, 111 Shau Kei Wan Road, Sai Wan Ho, Hong Kong","香港西灣河筲箕灣道111號2樓",Eastern District,東區,False,22.2818355,114.2225561
+C2901,"The Endeavourers Leung Lee Sau Yu Memorial Primary School","勵志會梁李秀娛紀念小學","25 Yiu Hing Road, Shau Kei Wan, Hong Kong","香港筲箕灣耀興道25號",Eastern District,東區,False,22.2765041,114.2269009
+C2902,"Shau Kei Wan Kai-fong Welfare Advancement Association Ltd.","筲箕灣街坊福利事務促進會有限公司","103 Nam On Street, Shau Kei Wan, Hong Kong","香港筲箕灣南安街103號",Eastern District,東區,False,22.2800285,114.2259551
+C3001,"Methodist Epworth Village Community Centre, Social Welfare - Epworth Integrated Youth Team (Yiu Tung Base)","循道愛華村服務中心社會福利部 - 愛華青少年綜合服務隊(耀東服務處)","Wing B & C, G/F & Wing B, 1/F, Yiu Wah House, Yiu Tung Estate, Shau Kei Wan, Hong Kong","香港筲箕灣耀東邨耀華樓地下B翼、C翼及1樓B翼",Eastern District,東區,False,22.2789384,114.221306
+C3101,"Lutheran Philip House Hing Man Nursery School","粵南信義會腓力堂興民幼兒學園","Level 3, Community Building, Hing Man Estate, Chai Wan, Hong Kong","香港柴灣興民邨社區中心第3層",Eastern District,東區,False,22.266456,114.23257
+C3102,"St. James Lutheran Kindergarten","路德會聖雅各幼稚園","G/F, Cheuk Wah House, Hing Wah (1) Estate, Chai Wan, Hong Kong","香港柴灣興華(一)邨卓華樓地下",Eastern District,東區,False,22.2622315,114.2350991
+C3201,"Meng Tak Catholic School","天主教明德學校","11 Cheung Man Road, Chai Wan, Hong Kong","香港柴灣祥民道11號",Eastern District,東區,False,22.2683459,114.2362581
+C3301,"Chai Wan Maternal and Child Health Centre","柴灣母嬰健康院","Level 2, Government Office, Block 6, New Jade Garden, 233 Chai Wan Road, Chai Wan, Hong Kong","香港柴灣柴灣道233號新翠花園第6座政府大樓2樓",Eastern District,東區,False,22.264079,114.237294
+C3401,"Yue Wan Community Hall","漁灣社區會堂","365 Chai Wan Road, Yue Wan Estate, Chai Wan, Hong Kong","香港柴灣柴灣道365號漁灣邨",Eastern District,東區,False,22.266339,114.240867
+C3501,"Chinese YMCA of Hong Kong - Chai Wan Centre","香港中華基督教青年會 - 柴灣會所","Units 1-10, G/F, Sui Lok House, Siu Sai Wan Estate, Chai Wan, Hong Kong","香港柴灣小西灣邨瑞樂樓地下1-10號",Eastern District,東區,False,22.2611916,114.2485214
+D0101,"Aberdeen Sports Centre","香港仔體育館","6/F, Aberdeen Municipal Services Building, 203 Aberdeen Main Road, Aberdeen, Hong Kong","香港香港仔香港仔大道203號香港仔市政大廈6樓",Southern District,南區,False,22.2493355,114.154483
+D0201,"Ap Lei Chau Community Hall","鴨脷洲社區會堂","Ap Lei Chau Estate, Hong Kong","香港鴨脷洲邨",Southern District,南區,False,22.244114,114.152056
+D0301,"Ap Lei Chau Sports Centre","鴨脷洲體育館","3/F, Ap Lei Chau Municipal Services Building, 8 Hung Shing Street, Ap Lei Chau, Hong Kong","香港鴨脷洲洪聖街8號鴨脷洲市政大廈3樓",Southern District,南區,False,22.2445,114.1554216
+D0401,"St. Peter's Catholic Primary School","聖伯多祿天主教小學","Phase II, Lei Tung Estate, Ap Lei Chau, Hong Kong","香港鴨脷洲利東邨第2期",Southern District,南區,False,22.241164,114.156254
+D0501,"Lei Tung Community Hall","利東社區會堂","Lei Tung Estate, Ap Lei Chau, Hong Kong","香港鴨脷洲利東邨",Southern District,南區,False,22.241909,114.155663
+D0601,"Hong Kong Southern District Government Primary School","香港南區官立小學","325 Ap Lei Chau Bridge Road, Ap Lei Chau, Hong Kong","香港鴨脷洲鴨脷洲橋道325號",Southern District,南區,False,22.243537,114.1505775
+D0701,"South Horizons Neighbourhood Community Centre","海怡社區中心","1/F, East Commercial Block, South Horizons, Ap Lei Chau, Hong Kong","香港鴨脷洲海怡半島東翼商場1樓",Southern District,南區,False,22.243024,114.148387
+D0801,"Wah Kwai Community Hall","華貴社區會堂","Wah Kwai Estate, Kellett Bay, Hong Kong","香港奇力灣華貴邨",Southern District,南區,False,22.250918,114.139141
+D0901,"Caritas Chong Yuet Ming Secondary School","明愛莊月明中學","53 Wah Fu Road, Wah Fu Estate, Pokfulam, Hong Kong","香港薄扶林華富邨華富道53號",Southern District,南區,False,22.251194,114.1383254
+D1001,"TWGHs Hok Shan School","東華三院鶴山學校","5 Wah Lam Path, Wah Fu Estate, Hong Kong","香港華富邨華林徑5號",Southern District,南區,False,22.2517652,114.139192
+D1101,"Sassoon Road Assembly Hall","沙宣道會堂","6 Sassoon Road, Pokfulam, Hong Kong","香港薄扶林沙宣道6號",Southern District,南區,False,22.2696132,114.1298709
+D1102,"Playground of Upper Baguio Villa","上碧瑤灣遊樂場","Baguio Villa (Upper), 555 Victoria Road, Hong Kong","香港域多利道555號碧瑤灣(上)",Southern District,南區,False,22.2619077,114.1325856
+D1103,"Cyberport Post Office","數碼港郵政局","Shops 5-8, Level 1, The Annex, Cyberport, 100 Cyberport Road, Hong Kong","香港數碼港道100號數碼港零售服務中心1樓5-8號舖",Southern District,南區,False,22.262598,114.130247
+D1201,"Shine Skills Centre (Pokfulam)","展亮技能發展中心 (薄扶林)","147 Pokfulam Road, Hong Kong","香港薄扶林道147號",Southern District,南區,False,22.260245,114.1360444
+D1202,"Chi Fu Community Hall","置富南區會堂","Chi Fu Landmark, Chi Fu Road, Pokfulam, Hong Kong","香港薄扶林置富道置富南區廣場",Southern District,南區,False,22.2580183,114.1389685
+D1301,"Caritas Jockey Club Aberdeen Social Centre","明愛賽馬會香港仔服務中心","20 Tin Wan Street, Aberdeen, Hong Kong","香港香港仔田灣街20號",Southern District,南區,False,22.2496254,114.1495595
+D1302,"SKH Tin Wan Chi Nam Primary School","聖公會田灣始南小學","5 Tin Wan New Street, Aberdeen, Hong Kong","香港香港仔田灣新街5號",Southern District,南區,False,22.2513189,114.1508115
+D1401,"Aberdeen St. Peter's Catholic Primary School","香港仔聖伯多祿天主教小學","Phase 2, Shek Pai Wan Estate, Aberdeen, Hong Kong","香港香港仔石排灣邨第2期",Southern District,南區,False,22.2497214,114.1580025
+D1501,"Aberdeen Tennis and Squash Centre","香港仔網球及壁球中心","1 Aberdeen Praya Road, Aberdeen, Hong Kong","香港香港仔海傍道1號",Southern District,南區,False,22.2475175,114.1599731
+D1502,"Southern District Elderly Community Centre","南區長者地區中心","Shops 1-3, G/F, South Wave Court, 3 Shum Wan Road, Wong Chuk Hang, Hong Kong","香港黃竹坑深灣道3號南濤閣地下1-3室",Southern District,南區,False,22.244878,114.1664285
+D1601,"Wong Chuk Hang Sports Centre","黃竹坑體育館","168 Wong Chuk Hang Road, Aberdeen, Hong Kong","香港香港仔黃竹坑道168號",Southern District,南區,False,22.2496045,114.1733755
+D1602,"Hong Kong International School","香港國際學校","UPS Gym, 1/F, 6 South Bay Close, Repulse Bay, Hong Kong","香港淺水灣南灣坊6號1樓體育館",Southern District,南區,False,22.2389,114.2011331
+D1701,"Stanley Community Hall","赤柱社區會堂","LG/F, Stanley Municipal Services Building, 6 Stanley Market Road, Hong Kong","香港赤柱市場道6號赤柱市政大廈地面下層",Southern District,南區,False,22.2191376,114.2122794
+D1702,"Medical Clinic of Shek O Health Centre","石澳健康院","140 Shek O Village, Shek O, Hong Kong","香港石澳石澳村140號",Southern District,南區,False,22.2560098,114.230354
+E0101,"Yan Oi Tong Chan Cheng Yuk Yee Kindergarten","仁愛堂陳鄭玉而幼稚園","Room 104, 1/F, 1 Austin Road West, Tsim Sha Tsui, Kowloon","九龍尖沙咀柯士甸道西1號1樓104室",Yau Tsim Mong District,油尖旺區,False,22.304929,114.161589
+E0201,"Kowloon Park Sports Centre","九龍公園體育館","22 Austin Road, Tsim Sha Tsui, Kowloon","九龍尖沙咀柯士甸道22號",Yau Tsim Mong District,油尖旺區,False,22.3018117,114.1703658
+E0401,"Henry G. Leong Yaumatei Community Centre","梁顯利油麻地社區中心","G/F, 60 Public Square Street, Yau Ma Tei, Kowloon","九龍油麻地眾坊街60號地下",Yau Tsim Mong District,油尖旺區,False,22.3098684,114.1697124
+E0501,"Yaumati Catholic Primary School (Hoi Wang Road)","油蔴地天主教小學(海泓道)","10 Hoi Wang Road, Yau Ma Tei, Kowloon","九龍油麻地海泓道10號",Yau Tsim Mong District,油尖旺區,False,22.31331,114.1639884
+E0601,"Mong Kok Community Hall","旺角社區會堂","L2, Mong Kok Complex, 557 Shanghai Street, Mong Kok, Kowloon","九龍旺角上海街557號旺角綜合大樓2樓",Yau Tsim Mong District,油尖旺區,False,22.3182162,114.1680797
+E0701,"Dominic Savio Kindergarten (Olympic Branch)","明我幼稚園(奧運校)","Unit 01-09 G/F, Hoi Wen House, Hoi Fu Court, Mong Kok, Kowloon","九龍旺角西海富苑海韻閣地下01-09室",Yau Tsim Mong District,油尖旺區,False,22.3169741,114.1647902
+E0801,"Hong Kong Society for the Protection of Children BOC Nursery School","香港保護兒童會中銀幼兒學校","G/F, GIC Building, 11 Hoi Fai Road, Olympian City, Tai Kok Tsui, Kowloon","九龍大角咀奧海城海輝道11號政府服務中心地下",Yau Tsim Mong District,油尖旺區,False,22.3187278,114.1585954
+E0901,"Sharon Lutheran School","路德會沙崙學校","18 Cherry Street, Tai Kok Tsui, Kowloon","九龍大角咀櫻桃街18號",Yau Tsim Mong District,油尖旺區,False,22.319043,114.1650761
+E1001,"Tai Kok Tsui Catholic Primary School","大角嘴天主教小學","148 Tai Kok Tsui Road, Kowloon","九龍大角嘴道148號",Yau Tsim Mong District,油尖旺區,False,22.3220616,114.1623518
+E1101,"CCC Kei Tsun Primary School","中華基督教會基全小學","150 Tai Kok Tsui Road, Kowloon","九龍大角咀道150號",Yau Tsim Mong District,油尖旺區,False,22.3225,114.1623665
+E1201,"Fresh Fish Traders' School","鮮魚行學校","33 Sycamore Street, Tai Kok Tsui, Kowloon","九龍大角咀詩歌舞街33號",Yau Tsim Mong District,油尖旺區,False,22.324683,114.1640109
+E1301,"SKH Kei Wing Primary School","聖公會基榮小學","23 Lai Chi Kok Road, Kowloon","九龍荔枝角道23號",Yau Tsim Mong District,油尖旺區,False,22.3223294,114.1679674
+E1401,"Boundary Street Sports Centre No. 1","界限街一號體育館","200 Sai Yee Street, Mong Kok, Kowloon","九龍旺角洗衣街200號",Yau Tsim Mong District,油尖旺區,False,22.325608,114.1709152
+E1501,"G.T. (Ellen Yeung) College","優才(楊殷有娣)書院","31 Sai Yee Street, Mong Kok, Kowloon","九龍旺角洗衣街31號",Yau Tsim Mong District,油尖旺區,False,22.3176666,114.1717692
+E1601,"TWGHs Lo Yu Chik Primary School","東華三院羅裕積小學","51 Pitt Street, Yau Ma Tei, Kowloon","九龍油麻地碧街51號",Yau Tsim Mong District,油尖旺區,False,22.3140282,114.1712857
+E1701,"Yaumati Kaifong Association School","油蔴地街坊會學校","80 Public Square Street, Yau Ma Tei, Kowloon","九龍油麻地眾坊街80號",Yau Tsim Mong District,油尖旺區,False,22.3101386,114.1717096
+E1702,"PolyU Hung Hom Bay Campus","香港理工大學紅磡灣校園","8 Hung Lok Road, Hung Hom, Kowloon","九龍紅磡紅樂道8號",Yau Tsim Mong District,油尖旺區,False,22.303307,114.1848765
+E1901,"Jordan Road Government Primary School","佐敦道官立小學","1B Nanking Street, Yau Ma Tei, Kowloon","九龍油麻地南京街1號B",Yau Tsim Mong District,油尖旺區,False,22.305918,114.1699949
+F0101,"Po On Road Sports Centre","保安道體育館","1/F, Po On Road Municipal Services Building, 325-329 Po On Road, Sham Shui Po, Kowloon","九龍深水埗保安道325-329號保安道市政大廈2樓",Sham Shui Po District,深水埗區,False,22.3384841,114.1575069
+F0201,"Fuk Wing Street Government Primary School","福榮街官立小學","231 Fuk Wing Street, Sham Shui Po, Kowloon","九龍深水埗福榮街231號",Sham Shui Po District,深水埗區,False,22.3341155,114.1595819
+F0301,"Ying Wa Girls' School","英華女學校","101 Castle Peak Road, Sham Shui Po, Kowloon","九龍深水埗青山道101號",Sham Shui Po District,深水埗區,False,22.3335036,114.1623393
+F0401,"Shek Kip Mei Community Hall","石硤尾社區會堂","Block 42, Shek Kip Mei Estate, Nam Cheong Street, Sham Shui Po, Kowloon","九龍深水埗南昌街石硤尾邨42座",Sham Shui Po District,深水埗區,False,22.33287,114.165699
+F0501,"Tsung Tsin Mission of Hong Kong On Hong Nursery School","基督教香港崇真會安康幼兒學校","Block C, 2/F, Prince Centre, 70 Tai Po Road, Sham Shui Po, Kowloon","九龍深水埗大埔道70號太子中心2樓C",Sham Shui Po District,深水埗區,False,22.328556,114.1672146
+F0601,"Shamshuipo Kaifong Welfare Advancement Association","深水埔街坊福利事務促進會","G/F, 88 Yu Chau Street, Sham Shui Po, Kowloon","九龍深水埗汝州街88號地下",Sham Shui Po District,深水埗區,False,22.327376,114.1650409
+F0701,"Pei Ho Street Sports Centre","北河街體育館","6/F, Pei Ho Street Municipal Services Building, 333 Ki Lung Street, Sham Shui Po, Kowloon","九龍深水埗基隆街333號北河街巿政大廈6樓",Sham Shui Po District,深水埗區,False,22.3292745,114.1610129
+F0801,"Nam Cheong District Community Centre","南昌社區中心","1 Cheong San Lane, Sham Shui Po, Kowloon","九龍深水埗昌新里1號",Sham Shui Po District,深水埗區,False,22.3261255,114.159049
+F0901,"Ying Wa College","英華書院","1 Ying Wa Street, Sham Shui Po, Kowloon","九龍深水埗英華街1號",Sham Shui Po District,深水埗區,False,22.3303523,114.1530468
+F1001,"Lai Kok Community Hall","麗閣社區會堂","Lai Kok Estate, Cheung Sha Wan, Kowloon","九龍長沙灣麗閣邨",Sham Shui Po District,深水埗區,False,22.3328088,114.1567547
+F1101,"Hoi Ping Chamber of Commerce Primary School","旅港開平商會學校","700 Lai Chi Kok Road, Kowloon","九龍荔枝角道700號",Sham Shui Po District,深水埗區,False,22.334433,114.1534419
+F1201,"SKH St. Mary's Church Mok Hing Yiu College","聖公會聖馬利亞堂莫慶堯中學","1 Hoi Lai Street, Sham Shui Po, Kowloon","九龍深水埗海麗街1號",Sham Shui Po District,深水埗區,False,22.3314185,114.1479561
+F1301,"Mei Foo Sun Chuen Community Centre","美孚新邨孚佑堂","38 Broadway, Stage 2, Mei Foo Sun Chuen, Kowloon","九龍美孚新邨第2期百老匯街38號",Sham Shui Po District,深水埗區,False,22.3353876,114.1388163
+F1401,"POH Mei Foo Lai Wan Kaifong Association Mr. and Mrs. Leung Chi Chim Elderly Health Support and Learning Centre","博愛醫院美孚荔灣街坊會梁之潛伉儷長者健康支援及進修中心","Kwai Chung Flyover, Mei Foo Sun Chuen, Kowloon","九龍美孚新邨天橋底 (荔灣街市側)",Sham Shui Po District,深水埗區,False,22.3355192,114.1401983
+F1501,"Lai Chi Kok Park Sports Centre","荔枝角公園體育館","1 Lai Wan Road, Lai Chi Kok, Kowloon","九龍荔枝角荔灣道1號",Sham Shui Po District,深水埗區,False,22.3407105,114.1382074
+F1601,"Lai Chi Kok Community Hall","荔枝角社區會堂","G/F, 863 Lai Chi Kok Road, Sham Shui Po, Kowloon","九龍深水埗荔枝角道863號地下",Sham Shui Po District,深水埗區,False,22.333982,114.148004
+F1701,"Five Districts Business Welfare Association School","五邑工商總會學校","70 Wing Hong Street, Sham Shui Po, Kowloon","九龍深水埗永康街70號",Sham Shui Po District,深水埗區,False,22.3409295,114.1546361
+F1801,"Cheung Sha Wan Sports Centre","長沙灣體育館","J/O Hing Wah Street and Cheung Sha Wan Road, Kowloon","九龍長沙灣道及興華街交界",Sham Shui Po District,深水埗區,False,22.3379193,114.1534051
+F1901,"Cheung Sha Wan Community Centre","長沙灣社區中心","55 Fat Tseung Street, Cheung Sha Wan, Kowloon","九龍長沙灣發祥街55號",Sham Shui Po District,深水埗區,False,22.3400225,114.1586951
+F2001,"Pak Tin Community Hall","白田社區會堂","Pak Tin Estate, Pak Tin Street, Shek Kip Mei, Kowloon","九龍石硤尾白田街白田邨",Sham Shui Po District,深水埗區,False,22.33514,114.167391
+F2101,"Our Lady of The Rosary College","聖母玫瑰書院","22 Rose Street, Yau Yat Chuen, Kowloon","九龍又一村玫瑰街22號",Sham Shui Po District,深水埗區,False,22.3330332,114.1725036
+F2201,"Tai Hang Tung Community Centre","大坑東社區中心","17 Tong Yam Street, Tai Hang Tung, Kowloon","九龍大坑東棠蔭街17號",Sham Shui Po District,深水埗區,False,22.3305513,114.1702926
+F2301,"Pak Tin Catholic Primary School","白田天主教小學","Pak Tin Estate, Sham Shui Po, Kowloon","九龍深水埗白田邨",Sham Shui Po District,深水埗區,False,22.33514,114.167391
+F2302,"Chak On Centre, City University of Hong Kong","香港城市大學澤安中心","Chak On Estate, Sham Shui Po, Kowloon","九龍深水埗澤安邨",Sham Shui Po District,深水埗區,False,22.340217,114.1646
+G0101,"Ma Tau Chung Government Primary School","馬頭涌官立小學","1 Fuk Cheung Street, To Kwa Wan, Kowloon","九龍土瓜灣福祥街1號",Kowloon City District,九龍城區,False,22.3245539,114.1867214
+G0201,"To Kwa Wan Sports Centre","土瓜灣體育館","66 Ha Heung Road, To Kwa Wan, Kowloon","九龍土瓜灣下鄉道66號",Kowloon City District,九龍城區,False,22.3188228,114.1902874
+G0301,"PLK Lam Man Chan English Primary School","保良局林文燦英文小學","24 Sheung Heung Road, To Kwa Wan, Kowloon","九龍土瓜灣上鄉道24號",Kowloon City District,九龍城區,False,22.318579,114.1881964
+G0401,"St. Eugene de Mazenod Oblate Primary School","獻主會聖馬善樂小學","24 Tin Kwong Road,To Kwa Wan, Kowloon","九龍土瓜灣天光道24號",Kowloon City District,九龍城區,False,22.319782,114.1860699
+G0501,"St. Monica's Kindergarten","聖文嘉幼稚園","G/F, Kwun Hei Court, 3 Sheung Lok Street, Homantin South, Kowloon","九龍何文田南常樂街3號冠熹苑地下",Kowloon City District,九龍城區,False,22.314366,114.18327
+G0502,"YMMSS Homantin Integrated Centre for Youth Development","循道衛理楊震社會服務處何文田青少年綜合發展中心","G/F, Tim Man House, Homantin Estate, Homantin, Kowloon","九龍何文田何文田邨恬文樓地下",Kowloon City District,九龍城區,False,22.316741,114.182233
+G0601,"Yu Chun Keung Memorial College","余振強紀念中學","27 Man Fuk Road, Waterloo Hill, Homantin, Kowloon","九龍何文田窩打老道山文福道27號",Kowloon City District,九龍城區,False,22.318445,114.178596
+G0602,"Homantin Government Secondary School","何文田官立中學","8 Perth Street, Homantin, Kowloon","九龍何文田巴富街8號",Kowloon City District,九龍城區,False,22.3210809,114.1803609
+G0701,"Caritas Community Centre - Kowloon","明愛九龍社區中心","256A Prince Edward Road West, Kowloon","九龍太子道西256號A",Kowloon City District,九龍城區,False,22.326058,114.1778011
+G0702,"Kowloon Chamber of Commerce","九龍總商會","2/F, KCC Building, 2 Liberty Avenue, Homantin, Kowloon","九龍何文田自由道2號龍總大廈2樓",Kowloon City District,九龍城區,False,22.318491,114.174321
+G0801,"Jockey Club Government Secondary School","賽馬會官立中學","2B Oxford Road, Kowloon Tong, Kowloon","九龍九龍塘牛津道2號B",Kowloon City District,九龍城區,False,22.3304828,114.1809687
+G0901,"Kowloon Tong Government Primary School","九龍塘官立小學","6 Tim Fuk Road, Kowloon Tong, Kowloon","九龍九龍塘添福道6號",Kowloon City District,九龍城區,False,22.335972,114.178331
+G0902,"Kowloon Funful Kindergarten & Children's Corner","九龍方方樂趣幼稚兒園","20 Durham Road, Kowloon Tong, Kowloon","九龍九龍塘對衡道20號",Kowloon City District,九龍城區,False,22.3321535,114.1814471
+G1001,"Kowloon City Sports Centre","九龍城體育館","3/F, Kowloon City Municipal Services Building, 100 Nga Tsin Wai Road, Kowloon City, Kowloon","九龍九龍城衙前圍道100號九龍城市政大廈3樓",Kowloon City District,九龍城區,False,22.3295171,114.1890319
+G1101,"Holy Trinity Primary School","聖三一堂小學","57 Fu Ning Street, Kowloon City, Kowloon","九龍九龍城富寧街57號",Kowloon City District,九龍城區,False,22.325137,114.1885531
+G1201,"PLK Wan Lam May Yin Shirley Neighborhood Elderly Centre","保良局溫林美賢耆暉中心","Flat A206, 2/F, Ching Long Shopping Centre, 12 Muk Hung Street, Kai Tak, Kowloon","九龍啓德沐虹街12號晴朗商場2樓A206",Kowloon City District,九龍城區,False,22.333135,114.202765
+G1301,"Buddhist Mr. & Mrs. Chan Chart Man Kindergarten","佛教陳策文伉儷幼稚園","28 Shing Kai Road, Tak Long Estate, Kai Tak, Kowloon","九龍啓德承啟道28號德朗邨",Kowloon City District,九龍城區,False,22.3263058,114.2024357
+G1501,"ELCHK Hung Hom Lutheran Primary School","基督教香港信義會紅磡信義學校","39 Pau Chung Street, To Kwa Wan, Kowloon","九龍土瓜灣炮仗街39號",Kowloon City District,九龍城區,False,22.3183231,114.187947
+G1601,"CCC Kei To Secondary School","中華基督教會基道中學","28 Sung On Street, To Kwa Wan, Kowloon","九龍土瓜灣崇安街28號",Kowloon City District,九龍城區,False,22.3135079,114.1904109
+G1701,"POH Mrs. Yam Wing Yin Kindergarten Day Nursery","博愛醫院任永賢夫人幼稚園幼兒中心","G/F, Tower 23, Laguna Verde, Hung Hom, Kowloon","九龍紅磡海逸豪園23座地下",Kowloon City District,九龍城區,False,22.3066926,114.192626
+G1702,"Hung Hom Community Hall","紅磡社區會堂","UG/F, Kowloon City Government Offices, 42 Bailey Street, Hung Hom, Kowloon","九龍紅磡庇利街42號九龍城政府合署高層地下",Kowloon City District,九龍城區,False,22.3119844,114.1897405
+G1801,"GCE Past Students' Association Whampoa Primary School","葛量洪校友會黃埔學校","30 Tak On Street, Whampoa Garden, Hung Hom, Kowloon","九龍紅磡黃埔花園德安街30號",Kowloon City District,九龍城區,False,22.303461,114.191428
+G1901,"Ma Tau Chung Government Primary School (Hung Hom Bay)","馬頭涌官立小學(紅磡灣)","3 Oi King Street, Hung Hom Bay, Kowloon","九龍紅磡灣愛景街3號",Kowloon City District,九龍城區,False,22.302357,114.1879669
+G1902,"Hong Kong Children & Youth Services Jockey Club Fong Shu Chuen Integrated Children and Youth Services Centre","香港青少年服務處賽馬會方樹泉綜合青少年服務中心","1/F, Block 18, Site 2, Whampoa Garden, Hung Hom, Kowloon","九龍紅磡黃埔花園第二期十八座1樓",Kowloon City District,九龍城區,False,22.304016,114.189459
+G2001,"SKH Holy Carpenter Secondary School","聖公會聖匠中學","10 Tai Wan Road, Hung Hom, Kowloon","九龍紅磡大環道10號",Kowloon City District,九龍城區,False,22.3075814,114.1880191
+G2101,"Hung Hom Municipal Services Building Sports Centre","紅磡市政大廈體育館","3/F, Hung Hom Municipal Services Building, 11 Ma Tau Wai Road, Hung Hom, Kowloon","九龍紅磡馬頭圍道11號紅磡市政大廈3樓",Kowloon City District,九龍城區,False,22.3073471,114.1873966
+G2201,"Aoi Pui School","愛培學校","16 Station Lane, Hung Hom, Kowloon","九龍紅磡差館里16號",Kowloon City District,九龍城區,False,22.3079857,114.1856666
+G2301,"Ho Man Tin Sports Centre","何文田體育館","1 Chung Yee Street, Homantin, Kowloon","九龍何文田忠義街1號",Kowloon City District,九龍城區,False,22.3117701,114.181075
+G2401,"Martha Boss Lutheran Community Centre","路德會包美達社區中心","1/F, 89 Chung Hau Street, Homantin, Kowloon","九龍何文田忠孝街89號1樓",Kowloon City District,九龍城區,False,22.3162725,114.179297
+H0101,"Wong Tai Sin Community Centre","黃大仙社區中心","104 Ching Tak Street, Wong Tai Sin, Kowloon","九龍黃大仙正德街104號",Wong Tai Sin District,黃大仙區,False,22.3409395,114.1943055
+H0201,"SKH Kei Tak Primary School","聖公會基德小學","Tai Shing Street, Wong Tai Sin, Kowloon","九龍黃大仙大成街",Wong Tai Sin District,黃大仙區,False,22.337687,114.193752
+H0301,"Lung Cheung Government Secondary School","龍翔官立中學","1 Ma Chai Hang Road, Wong Tai Sin, Kowloon","九龍黃大仙馬仔坑道1號",Wong Tai Sin District,黃大仙區,False,22.342838,114.1900951
+H0401,"Sik Sik Yuen Clinic","嗇色園西醫診所","G/F, Unit C, Sik Sik Yuen Social Services Complex, 38 Fung Tak Road, Wong Tai Sin, Kowloon","九龍黃大仙鳳德道38號嗇色園社會服務大樓地下C",Wong Tai Sin District,黃大仙區,False,22.3429995,114.197491
+H0501,"Fung Tak Estate Community Centre","鳳德社區中心","Fung Tak Estate, 111 Fung Tak Road, Diamond Hill, Kowloon","九龍鑽石山鳳德道111號鳳德邨",Wong Tai Sin District,黃大仙區,False,22.343375,114.2000375
+H0601,"The Boys' & Girls' Clubs Association of Hong Kong Jockey Club Tsz Wan Shan Children & Youth Integrated Services Centre","香港小童群益會賽馬會慈雲山青少年綜合服務中心","Room 203, 1/F, Lung Poon Court Commercial Centre, Diamond Hill, Kowloon","九龍鑽石山龍蟠苑商場2樓203號",Wong Tai Sin District,黃大仙區,False,22.341715,114.200263
+H0602,"PLK Mrs. Maria Cheung Lifelong Learning Institute for the Senior","保良局張麥珍耆樂中心","G/F, Bel Air Heights, 1 Lung Poon Street, Diamond Hill, Kowloon","九龍鑽石山龍蟠街1號悅庭軒地下",Wong Tai Sin District,黃大仙區,False,22.3413526,114.202419
+H0701,"Ho Lap College (Sponsored by the Sik Sik Yuen)","可立中學(嗇色園主辦)","15 Tseuk Luk Street, San Po Kong, Kowloon","九龍新蒲崗爵祿街15號",Wong Tai Sin District,黃大仙區,False,22.336694,114.195657
+H0702,"Canossa Primary School (San Po Kong)","嘉諾撒小學 (新蒲崗)","9 Choi Yee Lane, San Po Kong, Kowloon","九龍新蒲崗彩頤里9號",Wong Tai Sin District,黃大仙區,False,22.337021,114.2018124
+H0801,"Tung Tau Community Centre","東頭社區中心","26 Lok Sin Road, Wong Tai Sin, Kowloon","九龍黃大仙樂善道26號",Wong Tai Sin District,黃大仙區,False,22.3319891,114.1934394
+H0901,"Bishop Walsh Primary School","華德學校","150 Junction Road, Wong Tai Sin, Kowloon","九龍黃大仙聯合道150號",Wong Tai Sin District,黃大仙區,False,22.3348481,114.1878329
+H1001,"Morse Park Sports Centre","摩士公園體育館","40 Fung Mo Street, Wong Tai Sin, Kowloon","九龍黃大仙鳳舞街40號",Wong Tai Sin District,黃大仙區,False,22.3383382,114.1900689
+H1101,"The Hong Kong Federation of Youth Groups Jockey Club Wang Tau Hom Youth S.P.O.T.","香港青年協會賽馬會橫頭磡青年空間","G/F, Wang Hing House, Wang Tau Hom Estate, Kowloon","九龍橫頭磡邨宏興樓地下",Wong Tai Sin District,黃大仙區,False,22.3402115,114.186031
+H1102,"Hong Kong Federation of Handicapped Youth Jockey Club Activity Center","香港傷殘青年協會賽馬會活動中心","1-13, G/F, Wang Kei House, Wang Tau Hom Estate, Kowloon","九龍橫頭磡邨宏基樓地下1-13號",Wong Tai Sin District,黃大仙區,False,22.33978,114.1887716
+H1201,"Price Memorial Catholic Primary School","天主教博智小學","Tin Ma Court, 53 Chuk Yuen Road, Wong Tai Sin, Kowloon","九龍黃大仙竹園道53號天馬苑",Wong Tai Sin District,黃大仙區,False,22.3439329,114.1872436
+H1202,"Kit Sam Lam Bing Yim Secondary School","潔心林炳炎中學","9 Fu Mei Street, Wang Tau Hom, Kowloon","九龍橫頭磡富美街9號",Wong Tai Sin District,黃大仙區,False,22.3410195,114.1852266
+H1301,"Ho Tak Kindergarten (Sponsored by Sik Sik Yuen)","嗇色園主辦可德幼稚園","G/F, Chung Yuen House, Chuk Yuen North Estate, Wong Tai Sin, Kowloon","九龍黃大仙竹園北邨松園樓地下",Wong Tai Sin District,黃大仙區,False,22.3467249,114.1936571
+H1302,"Level 5, Tsui Chuk Commercial Complex","翠竹商場5樓","Level 5, Tsui Chuk Commercial Complex, Tsui Chuk Garden, 8 Chui Chuk Street, Wong Tai Sin, Kowloon","九龍黃大仙翠竹街8號翠竹花園翠竹商場5樓",Wong Tai Sin District,黃大仙區,False,22.3455315,114.1889025
+H1401,"Chuk Yuen Estate Community Centre","竹園社區中心","Chuk Yuen South Estate, 11 Chuk Yuen Road, Wong Tai Sin, Kowloon","九龍黃大仙竹園道11號竹園南邨",Wong Tai Sin District,黃大仙區,False,22.3447696,114.1939005
+H1402,"Baptist Rainbow Primary School","浸信會天虹小學","Chuk Yuen South Estate, Wong Tai Sin, Kowloon","九龍黃大仙竹園南邨",Wong Tai Sin District,黃大仙區,False,22.344633,114.190644
+H1501,"Chuk Yuen Sports Centre","竹園體育館","Chuk Yuen North Estate, 10 Chuk Yuen Road, Wong Tai Sin, Kowloon","九龍黃大仙竹園道10號竹園北邨",Wong Tai Sin District,黃大仙區,False,22.3454868,114.1935588
+H1601,"Tsz Wan Shan (South) Estate Community Centre","慈雲山(南區)社區中心","45 Wan Wah Street, Tsz Wan Shan, Wong Tai Sin, Kowloon","九龍黃大仙慈雲山雲華街45號",Wong Tai Sin District,黃大仙區,False,22.3487723,114.1997117
+H1701,"Chiu Ha Kindergarten","肖霞幼稚園","Kindergarten Block, Stage 3, Tsz Oi Court, 120 Tsz Wan Shan Road, Tsz Wan Shan, Kowloon","九龍慈雲山慈雲山道120號慈愛苑3期幼稚園座",Wong Tai Sin District,黃大仙區,False,22.349913,114.1969205
+H1801,"TWS St. Bonaventure Catholic Primary School","慈雲山聖文德天主教小學","Ning Wah Street, Tsz Ching Estate, Phase 2, Tsz Wan Shan, Kowloon","九龍慈雲山慈正邨第2期寧華街",Wong Tai Sin District,黃大仙區,False,22.349749,114.20347
+H1901,"Tak Oi Secondary School","德愛中學","8 Tsz Wan Shan Road, Tsz Wan Shan, Kowloon","九龍慈雲山慈雲山道8號",Wong Tai Sin District,黃大仙區,False,22.3474745,114.2046266
+H2001,"Hong Kong Sea Cadet Corps","香港海事青年團","11 Fung Shing Street, Diamond Hill, Kowloon","九龍鑽石山豐盛街11號",Wong Tai Sin District,黃大仙區,False,22.343505,114.2085966
+H2002,"Hong Kong Playground Association Jockey Club King Fu Integrated Service Centre For Children & Youth","香港遊樂場協會賽馬會瓊富青少年綜合服務中心","No.7-12, LG/F, Fu Shun House, Fu Shan Estate, Wong Tai Sin, Kowloon","九龍黃大仙富山邨富信樓地庫一層7-12號",Wong Tai Sin District,黃大仙區,False,22.349806,114.203993
+H2101,"PLK Anita L. L. Chan (Centenary) School","保良局陳麗玲(百周年)學校","Choi Wan Estate, 55 Clear Water Bay Road, Kowloon","九龍清水灣道55號彩雲邨",Wong Tai Sin District,黃大仙區,False,22.333206,114.216827
+H2201,"Hong Kong Kindergarten Association Pre-School","香港幼稚園協會幼兒學校","G/F, Chi Siu House, Choi Wan Estate, Kowloon","九龍彩雲邨紫霄樓地下",Wong Tai Sin District,黃大仙區,False,22.3328443,114.213325
+H2301,"Choi Wan Estate Community Centre","彩雲社區中心","38 Choi Fung Path, Choi Wan (I) Estate, Ngau Chi Wan, Kowloon","九龍牛池灣彩雲(一)邨彩鳳徑38號",Wong Tai Sin District,黃大仙區,False,22.3349277,114.2138833
+H2401,"Buddhist Hung Sean Chau Memorial College","佛教孔仙洲紀念中學","10 Ping Ting Road, Hammer Hill, Kowloon","九龍斧山平定道10號",Wong Tai Sin District,黃大仙區,False,22.3359836,114.2128969
+H2402,"CCC Kei Wa Primary School","中華基督教會基華小學","3 Wong Kuk Avenue, Choi Hung Estate, Wong Tai Sin, Kowloon","九龍黃大仙彩虹邨黃菊路3號",Wong Tai Sin District,黃大仙區,False,22.3358413,114.2068337
+H2501,"SKH St. Benedict's School","聖公會聖本德中學","11 Lam Chung Avenue, Choi Hung Estate, Kowloon","九龍彩虹邨藍鐘路11號",Wong Tai Sin District,黃大仙區,False,22.3353319,114.206025
+J0101,"Kwun Tong Government Primary School","觀塘官立小學","240 Ngau Tau Kok Road, Kwun Tong, Kowloon","九龍觀塘牛頭角道240號",Kwun Tong District,觀塘區,False,22.3164841,114.2179527
+J0102,"Kwun Tong Community Centre","觀塘社區中心","17 Tsui Ping Road, Kwun Tong, Kowloon","九龍觀塘翠屏道17號",Kwun Tong District,觀塘區,False,22.312929,114.2294105
+J0201,"Telford Gardens Community Hall","德福花園社區會堂","Podium Level, Block I, Telford Gardens, 33 Wai Yip Street, Kowloon Bay, Kowloon","九龍九龍灣偉業街33號德福花園I座平台",Kwun Tong District,觀塘區,False,22.3215135,114.213272
+J0301,"Kai Yip Community Hall","啟業社區會堂","Kai Yip Estate, Kowloon Bay, Kowloon","九龍九龍灣啟業邨",Kwun Tong District,觀塘區,False,22.3284729,114.2095757
+J0401,"Yan Chai Hospital Law Chan Chor Si College","仁濟醫院羅陳楚思中學","10 Kai Lai Road, Kowloon Bay, Kowloon","九龍九龍灣啟禮道10號",Kwun Tong District,觀塘區,False,22.328076,114.207877
+J0501,"Ping Shek Estate Catholic Primary School","坪石天主教小學","Ping Shek Estate, 10 Clear Water Bay Road, Kowloon","九龍清水灣道10號坪石邨",Kwun Tong District,觀塘區,False,22.3341953,114.2097885
+J0601,"Jordan Valley St. Joseph's Catholic Primary School","佐敦谷聖若瑟天主教小學","80 Choi Ha Road, Kowloon","九龍彩霞道80號",Kwun Tong District,觀塘區,False,22.3288695,114.2139061
+J0701,"Hong Kong Christian Service Bliss District Elderly Community Centre","香港基督教服務處樂暉長者地區中心","G/F, Choi Lok House, Choi Fook Estate, Kwun Tong, Kowloon","九龍觀塘彩福邨彩樂樓地下",Kwun Tong District,觀塘區,False,22.328889,114.217181
+J0702,"Choi Ha Estate Kit Sam Kindergarten","天主教彩霞邨潔心幼稚園","No. 4, Carpark Podium, Choi Ha Estate, Ngau Tau Kok, Kowloon","九龍牛頭角彩霞邨停車場平台4號",Kwun Tong District,觀塘區,False,22.325428,114.21725
+J0801,"Ning Po No. 2 College","寧波第二中學","9 Shun On Road, Shun Tin Estate, Kwun Tong, Kowloon","九龍觀塘順天邨順安道9號",Kwun Tong District,觀塘區,False,22.3248046,114.225967
+J0901,"Shun Lee Estate Community Centre","順利社區中心","2 Shun Chi Street, Shun Lee Estate, Kowloon","九龍順利邨順緻街2號",Kwun Tong District,觀塘區,False,22.3322064,114.2245109
+J0902,"CCC Kei Shun Special School","中華基督教會基順學校","Shun Lee Estate, Kwun Tong, Kowloon","九龍觀塘順利邨",Kwun Tong District,觀塘區,False,22.3322064,114.2245109
+J1001,"Carmel Leung Sing Tak School","迦密梁省德學校","Estate School No.2, Shun On Estate, Kwun Tong, Kowloon","九龍觀塘順安邨第2號校舍",Kwun Tong District,觀塘區,False,22.328376,114.226503
+J1101,"Sau Mau Ping Catholic Primary School","秀茂坪天主教小學","Po Tat Estate, Sau Mau Ping, Kwun Tong, Kowloon","九龍觀塘秀茂坪寶達邨",Kwun Tong District,觀塘區,False,22.317364,114.236349
+J1201,"The Mission Covenant Church Holm Glad Primary School","基督教聖約教會堅樂小學","77 Sau Ming Road, Sau Mau Ping, Kwun Tong, Kowloon","九龍觀塘秀茂坪秀明道77號",Kwun Tong District,觀塘區,False,22.3206789,114.231844
+J1301,"Chan Mung Yan Lutheran Kindergarten","路德會陳蒙恩幼稚園","G/F, Hiu On House, Hiu Lai Court, Sau Mau Ping, Kwun Tong, Kowloon","九龍觀塘秀茂坪曉麗苑曉安閣地下",Kwun Tong District,觀塘區,False,22.320858,114.229424
+J1302,"CASMP Chen Lee Wing Tsing Kindergarten","宣道會秀茂坪陳李詠貞幼稚園","G/F, Hiu Tin House, Hiu Lai Court, Sau Mau Ping, Kwun Tong, Kowloon","九龍觀塘秀茂坪曉麗苑曉天閣地下",Kwun Tong District,觀塘區,False,22.320858,114.229424
+J1401,"Kwun Tong Government Primary School (Sau Ming Road)","觀塘官立小學(秀明道)","130 Sau Ming Road, Sau Mau Ping, Kwun Tong, Kowloon","九龍觀塘秀茂坪秀明道130號",Kwun Tong District,觀塘區,False,22.315011,114.2340265
+J1402,"CNEC Kei Shek Church","中華傳道會基石堂 ","Shop 1 & Lobby, G/F, Carpark B, Po Tat Estate, Sau Mau Ping, Kowloon","九龍秀茂坪寶達邨B停車場地下1號",Kwun Tong District,觀塘區,False,22.3166713,114.2378533
+J1501,"Sau Ming Primary School","秀明小學","5 Sau Fung Street, Sau Mau Ping, Kwun Tong, Kowloon","九龍觀塘秀茂坪秀豐街5號",Kwun Tong District,觀塘區,False,22.3195614,114.2330135
+J1601,"St. Edward's Catholic Primary School","聖愛德華天主教小學","8 Hing Tin Street, Lam Tin, Kowloon","九龍藍田慶田街8號",Kwun Tong District,觀塘區,False,22.3115264,114.2375511
+J1701,"St. Paul's School (Lam Tin)","藍田聖保祿中學","10 On Tin Street, Lam Tin, Kowloon","九龍藍田安田街10號",Kwun Tong District,觀塘區,False,22.3088665,114.2373055
+J1702,"Fei Ngan Kindergarten","飛雁幼稚園","Roof Top, Carpark, Hong Yat Court, Lam Tin, Kowloon","九龍藍田康逸苑停車場頂層",Kwun Tong District,觀塘區,False,22.28167,114.151
+J1801,"Lam Tin (East) Community Hall","藍田(東區)社區會堂","2/F, Lam Tin Community Complex, 223 Pik Wan Road, Lam Tin, Kowloon","九龍藍田碧雲道223號藍田社區綜合大樓2樓",Kwun Tong District,觀塘區,False,22.3068841,114.2381735
+J1802,"Lam Tin (South) Sports Centre","藍田(南)體育館","170 Pik Wan Road, Lam Tin, Kowloon","九龍藍田碧雲道170號",Kwun Tong District,觀塘區,False,22.3038534,114.2388531
+J1901,"SKH Lee Shiu Keung Primary School","聖公會李兆強小學","School No. 1, Ping Tin Estate, On Tin Street, Lam Tin, Kowloon","九龍藍田安田街平田邨第1校舍",Kwun Tong District,觀塘區,False,22.305934,114.237105
+J2001,"SKH Kindly Light Church Holy Carpenter Kindergarten","聖公會慈光堂聖匠幼稚園","Level 7, Carpark Building, Hong Pak Court, Lam Tin, Kowloon","九龍藍田康栢苑停車場大廈7樓",Kwun Tong District,觀塘區,False,22.284215,114.143227
+J2101,"PLK Mrs. Fong Wong Kam Chuen Kindergarten","保良局方王錦全幼稚園","G/F, Chun Moon House, Ko Chun Court, 23 Ko Chiu Road, Yau Tong, Kowloon","九龍油塘高超道23號高俊苑俊滿閣地下",Kwun Tong District,觀塘區,False,22.2979661,114.2423171
+J2201,"CCC Kei Faat Primary School (Yau Tong)","中華基督教會基法小學(油塘)","25 Yau Tong Road, Yau Tong, Kowloon","九龍油塘油塘道25號",Kwun Tong District,觀塘區,False,22.299617,114.2341429
+J2301,"Yau Tong Community Hall","油塘社區會堂","38 Ko Chiu Road, Yau Tong, Kowloon","九龍油塘高超道38號",Kwun Tong District,觀塘區,False,22.2953464,114.2396082
+J2302,"Fukien Secondary School Affiliated School","福建中學附屬學校","Phase 2, Yau Tong Estate, Kowloon","九龍油塘邨第2期",Kwun Tong District,觀塘區,False,22.297437,114.238528
+J2401,"Po Chiu Catholic Secondary School","天主教普照中學","1 Po Chiu Road, Yau Tong, Kowloon","九龍油塘普照路1號",Kwun Tong District,觀塘區,False,22.2982754,114.2380431
+J2402,"Lei Yue Mun Sports Centre","鯉魚門體育館","4/F, Lei Yue Mun Municipal Services Building, 6 Lei Yue Mun Path, Yau Tong, Kowloon","九龍油塘鯉魚門徑6號鯉魚門市政大廈4樓",Kwun Tong District,觀塘區,False,22.2920657,114.2386757
+J2501,"Sai Tso Wan Neighbourhood Community Centre","茜草灣鄰里社區中心","81 Cha Kwo Ling Road, Yau Tong, Kowloon","九龍油塘茶果嶺道81號",Kwun Tong District,觀塘區,False,22.3072255,114.2289409
+J2601,"Lam Tin (West) Estate Community Centre","藍田(西區)社區中心","71 Kai Tin Road, Lam Tin, Kowloon","九龍藍田啟田道71號",Kwun Tong District,觀塘區,False,22.3089016,114.2338276
+J2701,"Our Lady of China Catholic Primary School","天主教佑華小學","Estate Primary School, Tsui Ping Estate Phase IV, Kwun Tong, Kowloon","九龍觀塘翠屏邨第4期屋邨小學",Kwun Tong District,觀塘區,False,22.313022,114.2304587
+J2801,"Kwun Tong Maryknoll College","觀塘瑪利諾書院","100 Tsui Ping Road, Kwun Tong, Kowloon","九龍觀塘翠屏道100號",Kwun Tong District,觀塘區,False,22.3182234,114.2282509
+J2901,"Delia Memorial School (Yuet Wah)","地利亞修女紀念學校(月華)","19 Yuet Wah Street, Kwun Tong, Kowloon","九龍觀塘月華街19號",Kwun Tong District,觀塘區,False,22.3140474,114.2270846
+J3001,"Shui Wo Street Sports Centre","瑞和街體育館","8/F, Shui Wo Street Municipal Services Building, 9 Shui Wo Street, Kwun Tong, Kowloon","九龍觀塘瑞和街9號瑞和街市政大廈8樓",Kwun Tong District,觀塘區,False,22.3156875,114.2242705
+J3002,"Hiu Kwong Street Sports Centre","曉光街體育館","2 Hiu Kwong Street, Kwun Tong, Kowloon","九龍觀塘曉光街2號",Kwun Tong District,觀塘區,False,22.3198041,114.2277395
+J3101,"Kwun Tong Kung Lok Government Secondary School","觀塘功樂官立中學","90 Kung Lok Road, Kwun Tong, Kowloon","九龍觀塘功樂道90號",Kwun Tong District,觀塘區,False,22.3181525,114.222241
+J3201,"SKH Kei Hin Primary School","聖公會基顯小學","On Shin Road, Upper Ngau Tau Kok Estate, Kwun Tong, Kowloon","九龍觀塘牛頭角上邨安善道",Kwun Tong District,觀塘區,False,22.3189949,114.2168438
+J3301,"Kwun Tong Methodist Social Service Ngau Tau Kok Youth Integrated Service Centre","循道衛理觀塘社會服務處牛頭角青少年綜合服務中心","The Central Plaza, Upper Ngau Tau Kok Estate, 189 Ngau Tau Kok Road, Kwun Tong, Kowloon","九龍觀塘牛頭角道189號牛頭角上邨中央廣場",Kwun Tong District,觀塘區,False,22.3167702,114.2181592
+J3401,"Chun Wah Road Sports Centre","振華道體育館","Top Floor, Lok Nga Court Carpark, 50 Chun Wah Road, Ngau Tau Kok, Kowloon","九龍牛頭角振華道50號樂雅苑停車場頂樓",Kwun Tong District,觀塘區,False,22.3225401,114.2205244
+J3402,"PLK Koo Bin Kau Lee Day Care Centre for the Elderly","保良局顧卞裘莉長者日間護理中心","G/F, Kwai Yuet House & Kwai Hin House, Lower Ngau Tau Kok Estate, Kwun Tong, Kowloon","九龍觀塘牛頭角下邨貴月樓及貴顯樓地下",Kwun Tong District,觀塘區,False,22.3206853,114.2153508
+J3501,"The Hall, Cheerful Court","彩頤居禮堂","G/F, Cheerful Court, 55 Choi Ha Road, Ngau Tau Kok, Kowloon","九龍牛頭角彩霞道55號彩頤居地下",Kwun Tong District,觀塘區,False,22.325587,114.216561
+J3601,"SKH Kei Lok Primary School","聖公會基樂小學","Phase 1, Lok Wah Estate, Ngau Tau Kok, Kowloon","九龍牛頭角樂華邨1期",Kwun Tong District,觀塘區,False,22.323118,114.219702
+J3701,"Lok Wah Estate Community Centre","樂華社區中心","80 Chun Wah Road, Lok Wah South Estate, Ngau Tau Kok, Kowloon","九龍牛頭角樂華南邨振華道80號",Kwun Tong District,觀塘區,False,22.323118,114.219702
+K0101,"Princess Alexandra Community Centre","雅麗珊社區中心","60 Tai Ho Road, Tsuen Wan, New Territories","新界荃灣大河道60號",Tsuen Wan District,荃灣區,False,22.371636,114.1145735
+K0201,"Tsuen Wan Catholic Primary School","荃灣天主教小學","37-41 Tak Wah Street, Tsuen Wan, New Territories","新界荃灣德華街37-41號",Tsuen Wan District,荃灣區,False,22.369161,114.1194929
+K0301,"Shak Chung Shan Memorial Catholic Primary School","天主教石鐘山紀念小學","39 Wing Shun Street, Riviera Gardens, Tsuen Wan, New Territories","新界荃灣海濱花園永順街39號",Tsuen Wan District,荃灣區,False,22.3637515,114.113253
+K0401,"POCA Wong Siu Ching Secondary School","寶安商會王少清中學","2 Tai Pa Street, Tsuen Wan, New Territories","新界荃灣大壩街2號",Tsuen Wan District,荃灣區,False,22.3713354,114.1103939
+K0501,"Tsuen Wan Government Secondary School","荃灣官立中學","70 Hoi Pa Street, Tsuen Wan, New Territories","新界荃灣海壩街70號",Tsuen Wan District,荃灣區,False,22.3726843,114.1137202
+K0601,"Tsuen King Circuit Sports Centre","荃景圍體育館","38 Mei Wan Street, Tsuen Wan, New Territories","新界荃灣美環街38號",Tsuen Wan District,荃灣區,False,22.3776065,114.1113547
+K0701,"Chai Wan Kok Catholic Primary School","柴灣角天主教小學","2-10 On Yin Street, Tsuen Wan, New Territories","新界荃灣安賢街2-10號",Tsuen Wan District,荃灣區,False,22.3780914,114.1065224
+K0801,"CCC Kei Wai Primary School","中華基督教會基慧小學","167-185 Tsuen King Circuit, Tsuen Wan, New Territories","新界荃灣荃景圍167-185號",Tsuen Wan District,荃灣區,False,22.3792089,114.1047308
+K0802,"Chuen Lung Village Office","川龍村公所","24C Chuen Lung Village, Route Twisk, Tsuen Wan, New Territories","新界荃灣荃錦公路川龍村24號C",Tsuen Wan District,荃灣區,True,22.3935401,114.1114055
+K0901,"Tsuen Wan Government Primary School","荃灣官立小學","600 Castle Peak Road, Belvedere Garden, Tsuen Wan, New Territories","新界荃灣麗城花園青山公路600號",Tsuen Wan District,荃灣區,False,22.3719506,114.1009659
+K1001,"Sham Tseng Catholic Primary School","深井天主教小學","37 Castle Peak Road - Sham Tseng, Tsuen Wan, New Territories","新界荃灣青山公路深井段37號",Tsuen Wan District,荃灣區,False,22.3673122,114.0603668
+K1101,"Hong Kong Baptist Convention Primary School","香港浸信會聯會小學","Belvedere Garden, 2 Lai Shun Road, Tsuen Wan, New Territories","新界荃灣麗順路2號麗城花園",Tsuen Wan District,荃灣區,False,22.3707905,114.100264
+K1102,"St. Francis Xavier's School, Tsuen Wan","荃灣聖芳濟中學","60-64 Ham Tin Street, Tsuen Wan, New Territories","新界荃灣咸田街60-64號",Tsuen Wan District,荃灣區,False,22.3685837,114.1170221
+K1201,"Former Site of Oceanic English Kindergarten","澳仙納幼稚園舊址","D.D.387 Lung Yue Road, Tsing Lung Tau, Tsuen Wan, New Territories","新界荃灣青龍頭龍如路387地段",Tsuen Wan District,荃灣區,False,22.3626663,114.0457494
+K1202,"Hongkong Garden Club Ltd.","豪景花園遊樂會","Hongkong Garden, 100 Castle Peak Road, Tsing Lung Tau, Tsuen Wan, New Territories","新界荃灣青山公路100號青龍頭豪景花園",Tsuen Wan District,荃灣區,False,22.3707654,114.1200212
+K1301,"CCC Kei Wai Primary School (Ma Wan)","中華基督教會基慧小學(馬灣)","12 Pak Lam Road, Park Island, Ma Wan, Tsuen Wan, New Territories","新界荃灣馬灣珀麗灣珀林路12號",Tsuen Wan District,荃灣區,False,22.3508091,114.0597625
+K1401,"Wai Tsuen Sports Centre","蕙荃體育館","6 Miu Kong Street, Tsuen Wan, New Territories","新界荃灣廟崗街6號",Tsuen Wan District,荃灣區,False,22.3723842,114.1224989
+K1501,"Lei Muk Shue Community Hall","梨木樹社區會堂","G/F, Hong Shue House, Lei Muk Shue Estate, Tsuen Wan, New Territories","新界荃灣梨木樹邨康樹樓地下",Tsuen Wan District,荃灣區,False,22.378818,114.136921
+K1502,"Ho Pui Tsuen Village Office","河背村村公所","House No.48B, Ho Pui Tsuen, Kwok Shui Road, Tsuen Wan, New Territories","新界荃灣國瑞路河背村48號B",Tsuen Wan District,荃灣區,False,22.3699469,114.1341709
+K1601,"Lei Muk Shue Catholic Primary School","梨木樹天主教小學","Estate School No.2, Lei Muk Shue Estate, Tsuen Wan, New Territories","新界荃灣梨木樹邨第2校舍",Tsuen Wan District,荃灣區,False,22.3791948,114.1356932
+K1701,"HKTA YYI Shek Wai Kok Primary School","香港道教聯合會圓玄學院石圍角小學","Estate Primary School No.2, Shek Wai Kok Estate, Tsuen Wan, New Territories","新界荃灣石圍角邨第2小學校舍",Tsuen Wan District,荃灣區,False,22.3746088,114.1222903
+K1801,"Former Tsuen Wan Lutheran School","前荃灣信義學校","Cheung Shan Estate, Tsuen Wan, New Territories","新界荃灣象山邨",Tsuen Wan District,荃灣區,False,22.378539,114.1300009
+K1802,"Tsuen Wan Public Ho Chuen Yiu Memorial College","荃灣公立何傳耀紀念中學","Estate Secondary School No.1, Shek Wai Kok Estate, Tsuen Wan, New Territories","新界荃灣石圍角邨屋邨中學第1號",Tsuen Wan District,荃灣區,False,22.3737354,114.1234051
+L0101,"Tuen Mun Town Centre Community Hall","屯門市中心社區會堂","Level 4, North Wing, Trend Plaza, Tuen Mun, New Territories","新界屯門時代廣場北翼L4層",Tuen Mun District,屯門區,False,22.3931244,113.975691
+L0102,"Castle Peak Catholic Primary School","青山天主教小學","2 Tuen Mun Heung Sze Wui Road, Tuen Mun, New Territories","新界屯門鄉事會路2號",Tuen Mun District,屯門區,False,22.3948331,113.9750192
+L0201,"PLK HKTA Yuen Yuen Primary School","保良局香港道教聯合會圓玄小學","26 Tsing Hoi Circuit, Castle Peak Road, Tuen Mun, New Territories","新界屯門青山公路青海圍26號",Tuen Mun District,屯門區,False,22.3865202,113.9808905
+L0202,"Yan Oi Tong Madam Lau Wong Fat Primary School","仁愛堂劉皇發夫人小學","Estate School No. 6, On Ting Estate, Tuen Mun, New Territories","新界屯門安定邨第6座校舍",Tuen Mun District,屯門區,False,22.3895604,113.9771581
+L0301,"Semple Memorial Secondary School","深培中學","18 Siu Lun Street, Tuen Mun, New Territories","新界屯門兆麟街18號",Tuen Mun District,屯門區,False,22.3842099,113.9779777
+L0302,"Ching Chung Hau Po Woon Secondary School","青松侯寶垣中學","21 Hang Fu Street, Tuen Mun, New Territories","新界屯門恒富街21號",Tuen Mun District,屯門區,False,22.382713,113.9725036
+L0401,"On Ting/Yau Oi Community Centre","安定/友愛社區中心","On Ting Estate, Tuen Mun, New Territories","新界屯門安定邨",Tuen Mun District,屯門區,False,22.3874509,113.9766935
+L0402,"SKH St. Peter's Church Castle Peak Siu Lun Court Kindergarten","聖公會青山聖彼得堂兆麟苑幼稚園","G/F, Siu Lun Court Shopping Centre, Tuen Mun, New Territories","新界屯門兆麟苑商場地下",Tuen Mun District,屯門區,False,22.3843468,113.9773303
+L0501,"STFA Tam Pak Yu College","順德聯誼總會譚伯羽中學","9 Yau Oi Road, Yau Oi Estate, Tuen Mun, New Territories","新界屯門友愛邨友愛路9號",Tuen Mun District,屯門區,False,22.3884811,113.9744989
+L0601,"Islamic Primary School","伊斯蘭學校","2 Oi Tak Lane, Yau Oi Estate, Tuen Mun, New Territories","新界屯門友愛邨愛德里2號",Tuen Mun District,屯門區,False,22.388067,113.9723034
+L0602,"YCH Ho Sik Nam Primary School","仁濟醫院何式南小學","Area 16, Tuen Mun, New Territories","新界屯門第16區",Tuen Mun District,屯門區,False,22.3849924,113.9717682
+L0701,"Stewards MKMCF Ma Ko Pan Memorial College","馬錦明慈善基金馬可賓紀念中學","17 Shek Pai Tau Road, Tuen Mun, New Territories","新界屯門石排頭路17號",Tuen Mun District,屯門區,False,22.4014705,113.9738233
+L0801,"Shan King Community Hall","山景社區會堂","Shan King Estate, Tuen Mun, New Territories","新界屯門山景邨",Tuen Mun District,屯門區,False,22.3908295,113.9725126
+L0901,"Tai Hing Community Hall","大興社區會堂","Commercial Complex, Tai Hing Estate, Tuen Mun, New Territories","新界屯門大興邨商場",Tuen Mun District,屯門區,False,22.4035463,113.9704007
+L0902,"Yan Oi Tong Chan Wong Suk Fong Memorial Secondary School","仁愛堂陳黃淑芳紀念中學","2 Wong Yin Street, Tuen Mun, New Territories","新界屯門旺賢街2號",Tuen Mun District,屯門區,False,22.4021826,113.967042
+L1001,"Tai Hing Sports Centre","大興體育館","38 Tsing Chung Koon Road, Tuen Mun, New Territories","新界屯門青松觀路38號",Tuen Mun District,屯門區,False,22.403301,113.9732365
+L1101,"CCC Tam Lee Lai Fun Memorial Secondary School","中華基督教會譚李麗芬紀念中學","10 San Wo Lane, San Hui, Tuen Mun, New Territories","新界屯門新墟新和里10號",Tuen Mun District,屯門區,False,22.4031935,113.9771397
+L1102,"Tseng Choi Street Community Hall","井財街社區會堂","27 Tseng Choi Street, Tuen Mun, New Territories","新界屯門井財街27號",Tuen Mun District,屯門區,False,22.400226,113.9774754
+L1201,"The Salvation Army Sam Shing Chuen Lau Ng Ying School","救世軍三聖邨劉伍英學校","Sam Shing Estate, Castle Peak Road, Tuen Mun, New Territories","新界屯門青山公路三聖邨",Tuen Mun District,屯門區,False,22.3811369,113.9779945
+L1202,"Customs and Excise Training School","海關訓練學校","10 Tai Lam Chung Road, Tuen Mun, New Territories","新界屯門大欖涌道10號",Tuen Mun District,屯門區,False,22.3633726,114.0203932
+L1301,"Immigration Service Institute of Training and Development","入境事務學院","Upper Ground Floor, 82 Castle Peak Road, Castle Peak Bay, Tuen Mun, New Territories","新界屯門青山灣青山公路82號地下高層",Tuen Mun District,屯門區,False,22.378895,113.9805407
+L1302,"PLK Women's Welfare Club Western District Fung Lee Pui Yiu Primary School","保良局西區婦女福利會馮李佩瑤小學","11 Kwun Tsing Road, So Kwun Wat, Tuen Mun, New Territories","新界屯門掃管笏管青路11號",Tuen Mun District,屯門區,False,22.3738203,113.9953676
+L1401,"Community Centre of Sun Tuen Mun Centre","新屯門中心社區中心","Level 3, Sun Tuen Mun Shopping Centre, 55-65 Lung Mun Road, Tuen Mun, New Territories","新界屯門龍門路55-65號新屯門商場L3層",Tuen Mun District,屯門區,False,22.3812408,113.9643827
+L1501,"South Tuen Mun Government Secondary School","南屯門官立中學","218 Wu Shan Road, Tuen Mun, New Territories","新界屯門湖山路218號",Tuen Mun District,屯門區,False,22.373364,113.9691813
+L1601,"LKWFS Lau Tak Yung Memorial Primary School","世界龍岡學校劉德容紀念小學","263 Wu Chui Road, Tuen Mun, New Territories","新界屯門湖翠路263號",Tuen Mun District,屯門區,False,22.373005,113.96848
+L1701,"TWGHs Sun Hoi Directors' College","東華三院辛亥年總理中學","3 Wu Cheong Street, Wu King Estate, Tuen Mun, New Territories","新界屯門湖景邨湖昌街3號",Tuen Mun District,屯門區,False,22.3746623,113.9652631
+L1801,"FDBWA Chow Chin Yau School","五邑鄒振猷學校","Siu Shan Court, Butterfly Estate, Tuen Mun, New Territories","新界屯門蝴蝶邨兆山苑",Tuen Mun District,屯門區,False,22.377957,113.962822
+L1802,"Butterfly Bay Community Centre","蝴蝶灣社區中心","Butterfly Estate, Tuen Mun, New Territories","新界屯門蝴蝶邨",Tuen Mun District,屯門區,False,22.3755788,113.9633115
+L1901,"Lutheran Tsang Shing Siu Leun School","香港路德會增城兆霖學校","Estate Primary School No. 5, Phase 3, Butterfly Estate, Area 28, Tuen Mun, New Territories","新界屯門第28區蝴蝶邨第3期屋邨小學第5校舍 ",Tuen Mun District,屯門區,False,22.3754118,113.9614101
+L1902,"Lung Kwu Tan Village Office","龍鼓灘村公所","1 Pak Long Tsuen, Lung Kwu Tan, Tuen Mun, New Territories","新界屯門龍鼓灘北朗村1號",Tuen Mun District,屯門區,False,22.391515,113.92169
+L2001,"Lung Yat Community Hall","龍逸社區會堂","106 Yip Wong Road, Tuen Mun, New Territories","新界屯門業旺路106號",Tuen Mun District,屯門區,False,22.3862641,113.9682744
+L2002,"YCH No.2 Secondary School","仁濟醫院第二中學","Yeung Tsing Road, Area 31, Tuen Mun, New Territories","新界屯門第31區楊青路",Tuen Mun District,屯門區,False,22.3895317,113.9661924
+L2101,"HKRSS Tuen Mun Primary School","香港紅卍字會屯門卍慈小學","Estate Primary School No. 1, Leung King Estate, Tuen Mun, New Territories","新界屯門良景邨第1校舍",Tuen Mun District,屯門區,False,22.4063156,113.9644422
+L2201,"Leung King Community Centre","良景社區中心","Leung King Estate, Tuen Mun, New Territories","新界屯門良景邨",Tuen Mun District,屯門區,False,22.4063156,113.9644422
+L2301,"SRBCEPSA Ho Sau Ki School","柏立基教育學院校友會何壽基學校","Estate Primary School No. 1, Tin King Estate, Tuen Mun, New Territories","新界屯門田景邨第1號校舍",Tuen Mun District,屯門區,False,22.3999245,113.966872
+L2401,"PLK Horizon East Primary School","保良局志豪小學","3 Hing Fu Street, Area 29, Tuen Mun, New Territories","新界屯門29區興富街3號",Tuen Mun District,屯門區,False,22.4112855,113.966666
+L2402,"Tuen Mun Tsz Tin Tsuen Village Office","屯門紫田村村公所","93 Tsz Tin Tsuen, Tsz Tin Road, Tuen Mun, New Territories","新界屯門紫田路紫田村93號",Tuen Mun District,屯門區,False,22.415917,113.975116
+L2501,"Kin Sang Community Hall","建生社區會堂","Kin Sang Estate, Tuen Mun, New Territories","新界屯門建生邨",Tuen Mun District,屯門區,False,22.40716,113.969493
+L2601,"Tuen Mun Government Primary School","屯門官立小學","Siu Hong Court, Tuen Mun, New Territories","新界屯門兆康苑",Tuen Mun District,屯門區,False,22.4132695,113.9771696
+L2701,"SKH Mung Yan Primary School","聖公會蒙恩小學","1 King Fung Path, Tuen Mun, New Territories","新界屯門景峰徑1號",Tuen Mun District,屯門區,False,22.404404,113.9802427
+L2702,"Hing Tak School","興德學校","1 Hing Ping Road, Tuen Mun, New Territories","新界屯門慶平路1號",Tuen Mun District,屯門區,False,22.4110394,113.9815545
+L2801,"Simon and Eleanor Kwok Building, Lingnan University","嶺南大學郭少明伉儷樓","SEKG09, Simon and Eleanor Kwok Building, Lingnan University, Tuen Mun, New Territories","新界屯門嶺南大學郭少明伉儷樓地下9號室",Tuen Mun District,屯門區,False,22.4098644,113.9835724
+L2802,"Fuk Hang Tsuen Village Office","福亨村村公所","Fuk Hang Tsuen Road, Tuen Mun, New Territories","新界屯門福亨村路",Tuen Mun District,屯門區,False,22.4181895,113.9868957
+L2901,"Kiu Saw Public School","僑所公立學校","1A Chung Uk Tsuen, Tuen Mun, New Territories","新界屯門鍾屋村1A號",Tuen Mun District,屯門區,False,22.4288515,113.9922435
+L2902,"Tuen Mun School","屯門學校","254 Ng Lau Road, Tuen Mun, New Territories","新界屯門五柳路254號",Tuen Mun District,屯門區,False,22.419662,113.9790655
+L2903,"Tuen Mun San Tsuen Village Office","屯門新村村公所","57A Tuen Mun San Tsuen, Lam Tei, Tuen Mun, New Territories","新界屯門藍地屯門新村57號A",Tuen Mun District,屯門區,False,22.418135,113.983479
+M0101,"Yuen Long Merchants Association Primary School","元朗商會小學","244 Castle Peak Road, Yuen Long, New Territories","新界元朗青山公路244號",Yuen Long District,元朗區,False,22.444123,114.023721
+M0201,"SKH Ling Oi Primary School","聖公會靈愛小學","15 Ma Miu Road, Yuen Long, New Territories","新界元朗媽廟路15號",Yuen Long District,元朗區,False,22.4458226,114.0217185
+M0202,"YLPMS Alumni Association Primary School","元朗公立中學校友會小學","2 Town Park Road North, Yuen Long, New Territories","新界元朗公園北路2號",Yuen Long District,元朗區,False,22.4407981,114.0205483
+M0301,"Long Ping Community Hall","朗屏社區會堂","Long Ping Estate, Yuen Long, New Territories","新界元朗朗屏邨",Yuen Long District,元朗區,False,22.449069,114.022729
+M0401,"Yuen Long Long Ping Estate Tung Koon Primary School","元朗朗屏邨東莞學校","Phase 1, Long Ping Estate, Yuen Long, New Territories","新界元朗朗屏邨第1期",Yuen Long District,元朗區,False,22.449711,114.025077
+M0501,"Yuen Long Post Office","元朗郵政局","Shop B, G/F, 8 Yuen Long Pau Cheung Square, Yuen Long, New Territories","新界元朗元朗炮仗坊8號地下B舖",Yuen Long District,元朗區,False,22.4456746,114.0290536
+M0502,"Fung Kam Street Sports Centre","鳳琴街體育館","20 Fung Yau Street North, Yuen Long, New Territories","新界元朗鳳攸北街20號",Yuen Long District,元朗區,False,22.4430161,114.033038
+M0601,"CCC Kei Yuen College","中華基督教會基元中學","Fung Yau Street East, Yuen Long, New Territories","新界元朗鳳攸東街",Yuen Long District,元朗區,False,22.442685,114.0351727
+M0701,"Buddhist Wing Yan School","佛教榮茵學校","6 Fung Yau Street South, Yuen Long, New Territories","新界元朗鳳攸南街6號",Yuen Long District,元朗區,False,22.441097,114.0337005
+M0801,"Yuen Long Government Primary School","元朗官立小學","Yau Chuen Street, Au Tau, Yuen Long, New Territories","新界元朗坳頭友全街",Yuen Long District,元朗區,False,22.4427587,114.0438799
+M0802,"Chung Sing School","鐘聲學校","29 Kau Hui Road, Yuen Long, New Territories","新界元朗舊墟路29號",Yuen Long District,元朗區,False,22.4486021,114.0330771
+M0901,"SKH Bishop Baker Secondary School","聖公會白約翰會督中學","10 Fung Yau Street South, Yuen Long, New Territories","新界元朗鳳攸南街10號",Yuen Long District,元朗區,False,22.441431,114.0350289
+M0902,"Caritas Yuen Long Chan Chun Ha Secondary School","明愛元朗陳震夏中學","66 Sai Yu Street, Yuen Long, New Territories","新界元朗西裕街66號",Yuen Long District,元朗區,False,22.4410603,114.0262286
+M1001,"Vichy Educational & Cultural Organisation Jade Kindergarten","瑋琦文化教育機構(殷翠幼稚園)","G/F, 153 Shung Ching San Tsuen, Tai Tong Road, Yuen Long, New Territories","新界元朗大棠路崇正新村153號地下",Yuen Long District,元朗區,False,22.4305378,114.0286613
+M1002,"Scout Association of Hong Kong Choi Chee Ming Luen Kwong Scout Centre","香港童軍總會蔡志明聯光童軍中心","1 Tai Tong Chuen, Tai Tong Road, Yuen Long, New Territories","新界元朗大棠道大棠村1號",Yuen Long District,元朗區,False,22.418723,114.025508
+M1101,"The Industrial Evangelistic Fellowship Ltd. Yuen Long Wai Kwan Centre","工業福音團契元朗惠群天地","16 Ma Fung Ling Road, Ping Shan, Yuen Long, New Territories","新界元朗屏山孖峰嶺路16號",Yuen Long District,元朗區,False,22.4405949,114.0131949
+M1102,"Ho Dao College (Sponsored by Sik Sik Yuen)","可道中學（嗇色園主辦）","11 Hung Shun Road, Hung Shui Kiu, Yuen Long, New Territories","新界元朗洪水橋洪順路11號",Yuen Long District,元朗區,False,22.433806,113.9995545
+M1201,"Ping Shan Tin Shui Wai Sports Centre","屏山天水圍體育館","3/F, Ping Shan Tin Shui Wai Leisure and Cultural Building, 1 Tsui Sing Road, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍聚星路1號屏山天水圍文化康樂大樓3樓",Yuen Long District,元朗區,False,22.4473939,114.0048181
+M1301,"Wang Chau Village Office","橫洲村公所","142 Fuk Hing Tsuen, Wang Chau, Yuen Long, New Territories","新界元朗橫洲福慶村142號",Yuen Long District,元朗區,False,22.455734,114.0253361
+M1302,"Former Sha Kong Public Luen Yick School","前沙江公立聯益學校","Sha Kong Wai, Ping Shan, Yuen Long, New Territories","新界元朗屏山沙江圍",Yuen Long District,元朗區,False,22.461471,113.989229
+M1401,"ELCHK Wing Jan Lutheran Church","基督教香港信義會榮真堂","Deep Bay Road, Lau Fau Shan, Yuen Long, New Territories","新界元朗流浮山深灣路",Yuen Long District,元朗區,False,22.4687732,113.9857738
+M1402,"Sik Kong Wai Village Office","錫降圍村公所","56 Sik Kong Wai, Ha Mei Road, Ha Tsuen, Yuen Long, New Territories","新界元朗廈村廈尾路錫降圍56號",Yuen Long District,元朗區,False,22.4478136,113.9931341
+M1403,"The Neighbourhood Advice-Action Council Tuen Mun / Yuen Long Rural Village Centre","鄰舍輔導會屯門/元朗鄉郊中心","Shop No. 1, G/F, Aster Court Shopping Arcade, 8 Hung Tai Road, Hung Shui Kiu, Yuen Long, New Territories","新界元朗洪水橋洪堤路8號雅珊園商場地下1號舖",Yuen Long District,元朗區,False,22.434007,113.9966515
+M1501,"Queen Elizabeth School Old Students' Association Branch Primary School","伊利沙伯中學舊生會小學分校","Area 3, Phase 4, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍第4期第3區",Yuen Long District,元朗區,False,22.4574842,114.0059651
+M1502,"Lions Clubs International Ho Tak Sum Primary School","獅子會何德心小學","PS2, Tin Shing Court, Area 3, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍第3區天盛苑第2校舍",Yuen Long District,元朗區,False,22.4491156,114.0028047
+M1601,"Tin Shui Community Centre","天瑞社區中心","Tin Shui Estate, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天瑞邨",Yuen Long District,元朗區,False,22.4560215,113.9985394
+M1701,"TWGHs Yiu Dak Chi Memorial Primary School (Yuen Long)","東華三院姚達之紀念小學(元朗)","Estate Primary School, Phase 1, Tin Shui Estate, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天瑞邨第1期屋邨小學",Yuen Long District,元朗區,False,22.4576068,113.996301
+M1801,"The Jockey Club Eduyoung College","賽馬會毅智書院","Area 31, Phase 1, Tin Shui Wai, Yuen Long, New Territories (Tin Chung Court)","新界元朗天水圍第31區第1期(天頌苑)",Yuen Long District,元朗區,False,22.4576068,113.996301
+M1802,"TWGHs Leo Tung-hai Lee Primary School","東華三院李東海小學","19 Tin Tan Street, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天壇街19號",Yuen Long District,元朗區,False,22.460069,113.9949791
+M1901,"Tin Shui Wai Methodist College","天水圍循道衞理中學","Area 102, Phase 4, Tin Shui Wai, Yuen Long, New Territories (Tin Fu Court)","新界元朗天水圍第102區第4期(天富苑)",Yuen Long District,元朗區,False,22.464587,113.9996463
+M2001,"Tin Fai Road Community Hall","天暉路社區會堂","Tin Fai Road, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天暉路",Yuen Long District,元朗區,False,22.46543,113.996992
+M2101,"SKH Tin Shui Wai Ling Oi Primary School","聖公會天水圍靈愛小學","82 Tin Shui Road, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天瑞路82號",Yuen Long District,元朗區,False,22.4628606,113.9970729
+M2201,"STFA Wu Mien Tuen Primary School","順德聯誼總會伍冕端小學","Tin Heng Estate, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天恒邨",Yuen Long District,元朗區,False,22.4707107,114.000111
+M2301,"YLPMS Alumni Association Ying Yip Primary School","元朗公立中學校友會英業小學","86 Tin Shui Road, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天瑞路86號",Yuen Long District,元朗區,False,22.4681283,114.0017195
+M2401,"Tin Ching Community Hall","天晴社區會堂","Tin Ching Estate, Tin Wah Road, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天華路天晴邨",Yuen Long District,元朗區,False,22.4632609,114.0030845
+M2501,"The Hong Kong Management Association K S Lo College","香港管理專業協會羅桂祥中學","26 Tin Pak Road, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天柏路26號",Yuen Long District,元朗區,False,22.4577056,114.006793
+M2601,"BTCFS Yeung Yat Lam Memorial School","道慈佛社楊日霖紀念學校","6 Tin Pak Road, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天柏路6號",Yuen Long District,元朗區,False,22.4541599,114.0068133
+M2701,"Tin Shui Wai Government Secondary School","天水圍官立中學","Phase 2, Tin Yiu Estate, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天耀邨第2期",Yuen Long District,元朗區,False,22.4521323,114.0044784
+M2801,"Tin Yiu Community Centre","天耀社區中心","Tin Yiu Estate, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天耀邨",Yuen Long District,元朗區,False,22.451682,114.0034562
+M2901,"Ju Ching Chu Secondary School (Yuen Long)","裘錦秋中學 (元朗)","5 Tin Wu Road, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天湖路5號",Yuen Long District,元朗區,False,22.4534384,114.0029274
+M3001,"HKFYG Lee Shau Kee Primary School","香港青年協會李兆基小學","11 Tin Wing Road, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天榮路11號",Yuen Long District,元朗區,False,22.4612475,114.0013245
+M3101,"HKMLC Wong Chan Sook Ying Memorial School","港澳信義會黃陳淑英紀念學校","Bauhinia Road East, Fairview Park, Tai Shang Wai, Yuen Long, New Territories","新界元朗大生圍錦綉花園紫荊東路",Yuen Long District,元朗區,False,22.469549,114.054414
+M3201,"Tun Yu School","惇裕學校","San Tin, Yuen Long, New Territories","新界元朗新田",Yuen Long District,元朗區,False,22.4950121,114.0696131
+M3202,"St. Gavriel Kindergarten","聖加百利幼稚園","1 San Wai Tsuen, San Tin, Yuen Long, New Territories","新界元朗新田新圍村1號",Yuen Long District,元朗區,False,22.4440353,114.0530345
+M3301,"SKH St. Joseph's Primary School","聖公會聖約瑟小學","12 Po Tei Road, Kam Tin, Yuen Long, New Territories","新界元朗錦田波地路12號",Yuen Long District,元朗區,False,22.439159,114.0670429
+M3401,"Toi Shan Public School (Former)","台山公立學校 (舊址)","100 Wang Toi Shan Shan Tsuen, Fan Kam Road, Pat Heung, Yuen Long, New Territories","新界元朗八鄉粉錦公路橫台山散村100號",Yuen Long District,元朗區,False,22.4582758,114.101366
+M3501,"Pat Heung Central Primary School (Shek Wu Tong)","八鄉中心小學 (石湖塘)","168 Shek Wu Tong Tsuen, Kam Sheung Road, Pat Heung, Yuen Long, New Territories","新界元朗八鄉錦上路石湖塘村168號",Yuen Long District,元朗區,False,22.4271309,114.072677
+N0101,"HHCKLA Buddhist Ma Kam Chan Memorial English Secondary School","香海正覺蓮社佛教馬錦燦紀念英文中學","9 Luen Yick Street, Luen Wo Market, Fanling, New Territories","新界粉嶺聯和墟聯益街9號",North District,北區,False,22.497846,114.1413651
+N0201,"Fanling Public School","粉嶺公立學校","651 Fanling Village, Fanling, New Territories","新界粉嶺粉嶺村651號",North District,北區,False,22.4965608,114.1375456
+N0202,"Caritas Fanling Chan Chun Ha Secondary School","明愛粉嶺陳震夏中學","28 San Wan Road, Fanling, New Territories","新界粉嶺新運路28號",North District,北區,False,22.4914316,114.1424381
+N0301,"Cheung Wah Community Hall","祥華社區會堂","Cheung Wah Estate, Fanling, New Territories","新界粉嶺祥華邨",North District,北區,False,22.4928501,114.1415233
+N0401,"HHCKLA Buddhist Ching Kok Lin Association School","香海正覺蓮社佛教正覺蓮社學校","12 Yat Ming Road, Fanling, New Territories","新界粉嶺一鳴路12號",North District,北區,False,22.487281,114.1420445
+N0501,"Fung Kai Liu Yun Sum Memorial School","鳳溪廖潤琛紀念學校","Wah Ming Estate, Fanling, New Territories","新界粉嶺華明邨",North District,北區,False,22.4833253,114.1424178
+N0601,"HHCKLA Buddhist Po Kwong School","香海正覺蓮社佛教普光學校","2 Yan Shing Lane, Fanling, New Territories","新界粉嶺欣盛里2號",North District,北區,False,22.48825,114.1392725
+N0602,"Jockey Club Yung Shing Lutheran Integrated Service Centre","路德會賽馬會雍盛綜合服務中心","2/F, Yung Shing Shopping Centre, Yung Shing Court, Fanling, New Territories","新界粉嶺雍盛苑雍盛商場2樓",North District,北區,False,22.482741,114.138736
+N0701,"SKH Ka Fuk Wing Chun Primary School","聖公會嘉福榮真小學","Ka Fuk Estate, Fanling, New Territories","新界粉嶺嘉福邨",North District,北區,False,22.4928972,114.1354213
+N0801,"Fanling Government Secondary School","粉嶺官立中學","27 Yat Ming Road, Fanling, New Territories","新界粉嶺一鳴路27號",North District,北區,False,22.4861591,114.1446216
+N0802,"Tin Ka Ping Secondary School","田家炳中學","1 Wai Hon Road, Fanling, New Territories","新界粉嶺維翰路1號",North District,北區,False,22.4944136,114.1311866
+N0901,"Elegantia College (Sponsored by Education Convergence)","風采中學 (教育評議會主辦)","8 Ching Shing Road, Sheung Shui, New Territories","新界上水清城路8號",North District,北區,False,22.4927976,114.124183
+N1001,"Po Wing Road Sports Centre","保榮路體育館","19 Pak Wo Road, Sheung Shui, New Territories","新界上水百和路19號",North District,北區,False,22.4969705,114.1284005
+N1101,"Kam Tsin Village Ho Tung School","金錢村何東學校","Kam Tsin Village, Sheung Shui, New Territories","新界上水金錢村",North District,北區,False,22.501201,114.110794
+N1102,"Tsiu Keng Village Office","蕉徑村公所","Tsiu Keng Lo Wai, Sheung Shui, New Territories","新界上水蕉徑老圍",North District,北區,False,22.476203,114.111364
+N1103,"Ku Tung Public Oi Wah School","古洞公立愛華學校","Ho Sheung Heung Road, Kwu Tung Village, Sheung Shui, New Territories","新界上水古洞村河上鄉路",North District,北區,False,22.5113482,114.1052008
+N1104,"Hang Tau Village Office","坑頭村公所","25 Hang Tau Tsuen, Sheung Shui, New Territories","新界上水坑頭村25號",North District,北區,False,22.504911,114.1337235
+N1201,"Choi Yuen Estate Hall","彩園會堂","Choi Yuen Estate, Sheung Shui, New Territories","新界上水彩園邨",North District,北區,False,22.5112008,114.1260991
+N1301,"Lung Sum Avenue Sports Centre","龍琛路體育館","155 Jockey Club Road, Sheung Shui, New Territories","新界上水馬會道155號",North District,北區,False,22.5049775,114.1306804
+N1302,"SKH Chan Young Secondary School","聖公會陳融中學","6 Chi Cheong Road, Sheung Shui, New Territories","新界上水智昌路6號",North District,北區,False,22.5009515,114.1328115
+N1303,"HHCKLA Buddhist Chan Shi Wan Primary School","香海正覺蓮社佛教陳式宏學校","Yuk Po Court, Sheung Shui, New Territories","新界上水旭埔苑",North District,北區,False,22.499941,114.128293
+N1401,"Shek Wu Hui Public School","石湖墟公立學校","Tin Ping Estate, Sheung Shui, New Territories","新界上水天平邨",North District,北區,False,22.5009699,114.1344111
+N1501,"Fung Kai Liu Man Shek Tong Secondary School","鳳溪廖萬石堂中學","6 Fung Nam Road, Sheung Shui, New Territories","新界上水鳳南路6號",North District,北區,False,22.5083185,114.127028
+N1601,"Ta Ku Ling Ling Ying Public School","打鼓嶺嶺英公立學校","Chow Tin Village, Ta Ku Ling, North District, New Territories","新界北區打鼓嶺週田村",North District,北區,False,22.5363337,114.1445624
+N1602,"International College Hong Kong","International College Hong Kong","60 Sha Tau Kok Road, Shek Chung Au, Sha Tau Kok, New Territories","新界沙頭角石涌凹沙頭角公路60號",North District,北區,False,22.5359935,114.2110905
+N1603,"Kut O Village Association","吉澳村公所","51 Kat O Main Street, Kat O Island, Sha Tau Kok, New Territories","新界沙頭角吉澳島吉澳大街51號",North District,北區,True,22.5384042,114.2969999
+N1604,"Sha Tau Kok Central Primary School","沙頭角中心小學","Area 4, Sha Tau Kok Hui, Sha Tau Kok, New Territories","新界沙頭角沙頭角墟第4區",North District,北區,False,22.531577,114.20324
+N1605,"Lee's Ancestral Hall","李氏宗祠","103 Chi Sum Road, Wu Kau Tang Village, Sha Tau Kok, New Territories","新界沙頭角烏蛟騰村祠心路103號",North District,北區,True,22.2779513,114.1863313
+N1606,"Ta Kwu Ling Community Hall","打鼓嶺社區會堂","G/F, Ta Kwu Ling Rural Centre Government Building, 136 Ping Che Road, Ta Kwu Ling, New Territories","新界打鼓嶺坪輋路136號打鼓嶺鄉村中心政府大樓地下",North District,北區,False,22.524517,114.160609
+N1701,"Tin Ping Sports Centre","天平體育館","3/F, Tin Ping Shopping Centre, Tin Ping Estate, Sheung Shui, New Territories","新界上水天平邨天平商場3樓",North District,北區,False,22.5009699,114.1344111
+N1702,"Luen Wo Hui Community Hall","聯和墟社區會堂","G/F, 9 Wo Mun Street, Luen Wo Hui, Fanling, New Territories","新界粉嶺聯和墟和滿街9號地下",North District,北區,False,22.5000834,114.1445234
+N1801,"Tsung Him School","從謙學校","10 Lok Tung Street, Shung Him Tong Village, Fanling, New Territories","新界粉嶺崇謙堂村樂東街10號",North District,北區,False,22.4970138,114.1488676
+N1802,"Lung Shan School","龍山學校","Lung Yeuk Tau, Fanling, New Territories","新界粉嶺龍躍頭",North District,北區,False,22.49925,114.149504
+N1803,"Kwan Ti Vegetable Marketing Co-operative Society, Limited","軍地蔬菜產銷有限責任合作社","DD83 Sha Tau Kok Road, Fanling, New Territories","新界粉嶺沙頭角公路地段DD83",North District,北區,False,22.510012,114.160242
+N1804,"Mission To New Arrivals Ltd. Life Building Centre","新福事工協會生命導向中心","75 Kan Tau Tsuen, Fanling, New Territories","新界粉嶺簡頭村75號",North District,北區,False,22.4941065,114.14515
+N1805,"Wo Hop Shek Village Office","和合石村公所","23D1 Wo Hop Shek Village, Fanling, New Territories","新界粉嶺和合石村23號D1",North District,北區,False,22.4638268,114.1476767
+P0101,"Tai Po Community Centre (Exhibition Hall)","大埔社區中心(展覽廳)","2 Heung Sze Wui Street, Tai Po, New Territories","新界大埔鄉事會街2號",Tai Po District,大埔區,False,22.4467665,114.165982
+P0201,"Tai Po Government Secondary School","大埔官立中學","12 On Pong Road, Tai Po, New Territories","新界大埔安邦路12號",Tai Po District,大埔區,False,22.451554,114.1683091
+P0301,"NTW&JWAL Leung Sing Tak Primary School","新界婦孺福利會梁省德學校","Tai Yuen Estate, Tai Po, New Territories","新界大埔大元邨",Tai Po District,大埔區,False,22.454748,114.1687474
+P0302,"HKRSS Tai Po Secondary School","香港紅卍字會大埔卍慈中學","Fu Heng Estate, Tai Po, New Territories","新界大埔富亨邨",Tai Po District,大埔區,False,22.4589619,114.171803
+P0401,"Tai Yuen Community Hall","大元社區會堂","Tai Yuen Estate, Tai Po, New Territories","新界大埔大元邨",Tai Po District,大埔區,False,22.454748,114.1687474
+P0501,"Fu Heng Neighbourhood Community Centre","富亨鄰里社區中心","Fu Heng Estate, Phase IV, Tai Po, New Territories","新界大埔富亨邨第4期",Tai Po District,大埔區,False,22.4589619,114.171803
+P0601,"Fu Shin Community Hall","富善社區會堂","Fu Shin Estate, Tai Po, New Territories","新界大埔富善邨",Tai Po District,大埔區,False,22.4536874,114.174553
+P0701,"HKTA The Yuen Yuen Institute No. 2 Secondary School","香港道教聯合會圓玄學院第二中學","Fu Shin Estate, Tai Po, New Territories","新界大埔富善邨",Tai Po District,大埔區,False,22.4536874,114.174553
+P0801,"Kwong Fuk Community Hall","廣福社區會堂","Kwong Fuk Estate, Tai Po, New Territories","新界大埔廣福邨",Tai Po District,大埔區,False,22.4486227,114.1745356
+P0802,"Sung Tak Wong Kin Sheung Memorial School","大埔崇德黃建常紀念學校","Tung Cheong Street, Tai Po, New Territories","新界大埔東昌街",Tai Po District,大埔區,False,22.448362,114.1695736
+P0901,"Tai Po Baptist Public School","大埔浸信會公立學校","Kwong Fuk Estate, Tai Po, New Territories","新界大埔廣福邨",Tai Po District,大埔區,False,22.4486227,114.1745356
+P1001,"Hong Kong Teachers' Association Lee Heng Kwei Secondary School","香港教師會李興貴中學","Wan Tau Tong Estate, Tai Po, New Territories","新界大埔運頭塘邨",Tai Po District,大埔區,False,22.442132,114.167153
+P1002,"PLK Tin Ka Ping Millennium Primary School","保良局田家炳千禧小學","4641 Tai Po Road, Tai Po Kau, Tai Po, New Territories","新界大埔大埔公路大埔滘段4641號",Tai Po District,大埔區,False,22.430802,114.196064
+P1101,"Wan Tau Tong Neighbourhood Community Centre","運頭塘鄰里社區中心","Wan Tau Tong Estate, Tai Po, New Territories","新界大埔運頭塘邨",Tai Po District,大埔區,False,22.442132,114.167153
+P1201,"YCH Choi Hin To Primary School","仁濟醫院蔡衍濤小學","Wan Tau Tong Estate, Area 6, Tai Po, New Territories","新界大埔第六區運頭塘邨",Tai Po District,大埔區,False,22.442313,114.166995
+P1202,"Norwegian International School","挪威國際學校","170 Kam Shan Road, Tai Po, New Territories","新界大埔錦山路170號",Tai Po District,大埔區,False,22.4479439,114.157898
+P1301,"Nam Wah Po Village Tsung Tsin Church","南華莆村崇真堂","2 Nam Wah Po Village, Tai Wo Service Road West, Lam Tsuen Valley, Tai Po, New Territories","新界大埔林村谷大窩西支路南華莆村2號",Tai Po District,大埔區,False,22.475818,114.151902
+P1302,"Lions Club Lam Tsuen Youth Centre","獅子會林村青年中心","Fong Ma Po, Lam Tsuen, Tai Po, New Territories","新界大埔林村放馬莆",Tai Po District,大埔區,False,22.454874,114.139968
+P1303,"Wai Tau Village Office","圍頭村村公所","52 Wai Tau Tsuen, Tai Po, New Territories","新界大埔圍頭村52號",Tai Po District,大埔區,False,22.4636797,114.1471043
+P1304,"Tai Hang Public School","泰亨公立學校","9 Chung Sum Wai, Tai Hang Village, Tai Po, New Territories","新界大埔泰亨村中心圍9號",Tai Po District,大埔區,False,22.469348,114.151054
+P1401,"Assembly of God Hebron Secondary School","神召會康樂中學","Po Nga Court, Tai Po, New Territories","新界大埔寶雅苑",Tai Po District,大埔區,False,22.452006,114.162586
+P1501,"Lam Tsuen Public Wong Fook Luen Memorial School","林村公立黃福鑾紀念學校","Tai Wo Estate, Tai Po, New Territories","新界大埔太和邨",Tai Po District,大埔區,False,22.452006,114.162586
+P1601,"Tai Wo Neighbourhood Community Centre","太和鄰里社區中心","Tai Wo Estate, Tai Po, New Territories","新界大埔太和邨",Tai Po District,大埔區,False,22.452006,114.162586
+P1701,"Tai Po Sam Yuk Secondary School","大埔三育中學","2 Tai Po Tau Drive, Tai Po, New Territories","新界大埔大埔頭徑2號",Tai Po District,大埔區,False,22.4542808,114.1590361
+P1702,"Kau Lung Hang Public Yuk Yin School","九龍坑公立育賢學校","62 Kau Lung Hang Village, Tai Po, New Territories","新界大埔九龍坑村62號",Tai Po District,大埔區,False,22.4636797,114.1471043
+P1703,"Conference Room of Hong Lok Yuen Management Services Office","康樂園服務處會議室","Flat A, 1/F, No. 5 Town Centre Crescent, Hong Lok Yuen, Tai Po, New Territories","新界大埔康樂園市中心徑5號1樓A室",Tai Po District,大埔區,False,22.4606817,114.1543395
+P1704,"Confucian Tai Shing Ho Kwok Pui Chun College","孔教學院大成何郭佩珍中學","Fu Shin Estate, Tai Po, New Territories","新界大埔富善邨",Tai Po District,大埔區,False,22.4536874,114.174553
+P1801,"Tai Mei Tuk Village Office","大美督村公所","51A Tai Mei Tuk Village, Tai Po, New Territories","新界大埔大美督村51號A",Tai Po District,大埔區,False,22.472921,114.23275
+P1802,"Shuen Wan Chim Uk Village Office","船灣詹屋村村公所","38 Chim Uk Village, Shuen Wan, Ting Kok Road, Tai Po, New Territories","新界大埔汀角路船灣詹屋村38號",Tai Po District,大埔區,False,22.463434,114.206631
+P1803,"The Hong Kong Institute of Education Jockey Club Primary School","香港教育學院賽馬會小學","10 Lo Ping Road, Tai Po, New Territories","新界大埔露屏路10號",Tai Po District,大埔區,False,22.466823,114.194208
+P1901,"Hong Kong Baptist Theological Seminary","香港浸信會神學院","1 Nin Ming Road, Sai O, Sai Kung (North), New Territories","新界西貢北西澳年明路1號",Tai Po District,大埔區,False,22.431372,114.254325
+P1902,"Sai Kung Country Park Visitor Centre","西貢郊野公園遊客中心","531 Tai Mong Tsai Road, Pak Tam Chung, Sai Kung, New Territories","新界西貢北潭涌大網仔路531號",Tai Po District,大埔區,True,22.399246,114.3221472
+P1903,"Tap Mun Village Office","塔門鄉公所","Tap Mun, Tai Po, New Territories","新界大埔塔門",Tai Po District,大埔區,True,22.4754602,114.3593987
+Q0101,"The Sai Kung Jockey Club Town Hall","西貢賽馬會大會堂","8 Chan Man Street, Sai Kung, New Territories","新界西貢親民街8號",Sai Kung District,西貢區,False,22.3830135,114.2712469
+Q0102,"Man Yee Fishermen Village Community Hall","萬宜漁村公共會堂","Man Yee Fishermen Estate, 140 Hong Kin Road, Tui Min Hoi, Sai Kung, New Territories","新界西貢對面海康健路140號萬宜漁村",Sai Kung District,西貢區,False,22.37503,114.2713514
+Q0201,"Ex-Sai Kung Central Primary School","前西貢中心小學","Ho Chung, Sai Kung, New Territories","新界西貢蠔涌",Sai Kung District,西貢區,False,22.355211,114.245936
+Q0401,"Hong Kong and Macau Lutheran Church Primary School","港澳信義會小學","4 Chap Fuk Road, Tseung Kwan O, New Territories","新界將軍澳集福路4號",Sai Kung District,西貢區,False,22.319653,114.2666689
+Q0501,"Cheng Chek Chee Secondary School of Sai Kung & Hang Hau District, N.T.","新界西貢坑口區鄭植之中學","8 Chuk Kok Road, Sai Kung, New Territories","新界西貢竹角路8號",Sai Kung District,西貢區,False,22.3431835,114.257482
+Q0601,"Evangel College","播道書院","7 Chi Shin Street, Tseung Kwan O, New Territories","新界將軍澳至善街7號",Sai Kung District,西貢區,False,22.3042712,114.2623762
+Q0701,"HKYWCA Tseung Kwan O Integrated Social Service Centre","香港基督教女青年會將軍澳綜合社會服務處","LG 3, Tower 17, Ocean Shores, 88 O King Road, Tiu Keng Leng, Tseung Kwan O, New Territories","新界將軍澳調景嶺澳景路88號維景灣畔第17座地庫3層",Sai Kung District,西貢區,False,22.303634,114.252769
+Q0801,"G.T. (Ellen Yeung) College","優才(楊殷有娣)書院","10 Ling Kwong Street, Tiu Keng Leng, Tseung Kwan O, New Territories","新界將軍澳調景嶺嶺光街10號",Sai Kung District,西貢區,False,22.305049,114.2502875
+Q0901,"HHCKLA Buddhist Ching Kok Secondary School","香海正覺蓮社佛教正覺中學","38 Chui Ling Road, Tiu Keng Leng, Tseung Kwan O, New Territories","新界將軍澳調景嶺翠嶺路38號",Sai Kung District,西貢區,False,22.306968,114.2494031
+Q1001,"Po Kok Secondary School","寶覺中學","9 Choi Ming Street, Choi Ming Court, Tseung Kwan O, New Territories","新界將軍澳彩明苑彩明街9號",Sai Kung District,西貢區,False,22.3078163,114.254281
+Q1101,"POH 80th Anniversary Tang Ying Hei College","博愛醫院八十週年鄧英喜中學","2 Tong Yin Lane, Tseung Kwan O, New Territories","新界將軍澳唐賢里2號",Sai Kung District,西貢區,False,22.308906,114.2586115
+Q1201,"YCH Wong Wha San Secondary School","仁濟醫院王華湘中學","8 Tong Chun Street, Tseung Kwan O, New Territories","新界將軍澳唐俊街8號",Sai Kung District,西貢區,False,22.3093475,114.2598061
+Q1301,"Tseung Kwan O Sports Ground","將軍澳運動場","109 Po Hong Road, Tseung Kwan O, New Territories","新界將軍澳寶康路109號",Sai Kung District,西貢區,False,22.3116561,114.2632676
+Q1401,"Tseung Kwan O Government Primary School","將軍澳官立小學","Hau Tak Estate, Tseung Kwan O, New Territories","新界將軍澳厚德邨",Sai Kung District,西貢區,False,22.3167785,114.2642605
+Q1501,"Tsui Lam Sports Centre","翠林體育館","Tsui Lam Estate, Tseung Kwan O, New Territories","新界將軍澳翠林邨",Sai Kung District,西貢區,False,22.3225443,114.2484241
+Q1502,"King Ling College","景嶺書院","1 Lam Shing Road, Tseung Kwan O, New Territories","新界將軍澳林盛路1號",Sai Kung District,西貢區,False,22.3183085,114.253458
+Q1601,"Tsui Lam Community Hall","翠林社區會堂","Tsui Lam Estate, Tseung Kwan O, New Territories","新界將軍澳翠林邨",Sai Kung District,西貢區,False,22.3225443,114.2484241
+Q1701,"Carmel Divine Grace Foundation Secondary School","迦密主恩中學","Po Lam Estate, Tseung Kwan O, New Territories","新界將軍澳寶林邨",Sai Kung District,西貢區,False,22.3225443,114.2484241
+Q1801,"Po Lam Multipurpose Hall","寶林邨文娛活動會堂","Po Lam Estate, Tseung Kwan O, New Territories","新界將軍澳寶林邨",Sai Kung District,西貢區,False,22.3225443,114.2484241
+Q1901,"STFA Leung Kit Wah Primary School","順德聯誼總會梁潔華小學","2 Mau Tai Road, Tseung Kwan O, New Territories","新界將軍澳貿泰路2號",Sai Kung District,西貢區,False,22.3233646,114.2561529
+Q1902,"STFA Cheng Yu Tung Secondary School","順德聯誼總會鄭裕彤中學","9 Hok Lam Lane, Tseung Kwan O, New Territories","新界將軍澳學林里9號",Sai Kung District,西貢區,False,22.3191853,114.2588619
+Q2001,"King Lam Neighbourhood Community Centre","景林鄰里社區中心","King Lam Estate, Tseung Kwan O, New Territories","新界將軍澳景林邨",Sai Kung District,西貢區,False,22.3211852,114.2615902
+Q2101,"Catholic Ming Yuen Secondary School","天主教鳴遠中學","Hau Tak Estate, Tseung Kwan O, New Territories","新界將軍澳厚德邨",Sai Kung District,西貢區,False,22.3167785,114.2642605
+Q2201,"Hong Kong and Macau Lutheran Church Queen Maud Secondary School","港澳信義會慕德中學","Phase 3, Hau Tak Estate, Tseung Kwan O, New Territories","新界將軍澳厚德邨第3期",Sai Kung District,西貢區,False,22.317501,114.267008
+Q2301,"Hang Hau Community Hall","坑口社區會堂","G/F, Sai Kung Tseung Kwan O Government Complex, 38 Pui Shing Road, Hang Hau, Tseung Kwan O, New Territories","新界將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下",Sai Kung District,西貢區,False,22.31735,114.268057
+Q2401,"Sheung Tak Community Hall","尚德社區會堂","Sheung Mei House, Sheung Tak Estate, Tseung Kwan O, New Territories","新界將軍澳尚德邨尚美樓",Sai Kung District,西貢區,False,22.3112935,114.2566685
+Q2501,"HKTA The Yuen Yuen Institute No.3 Secondary School","香港道教聯合會圓玄學院第三中學","Sheung Tak Estate, 2 Tong Ming Street, Tseung Kwan O, New Territories","新界將軍澳唐明街2號尚德邨",Sai Kung District,西貢區,False,22.310997,114.2588837
+Q2601,"Creative Secondary School","啓思中學","3 Pung Loi Road, Tseung Kwan O, New Territories","新界將軍澳蓬萊路3號",Sai Kung District,西貢區,False,22.3074785,114.2675866
+Q2602,"Lohas Park Community Hall","康城社區會堂","The Capitol, LOHAS Park, Tseung Kwan O, New Territories","新界將軍澳日出康城首都",Sai Kung District,西貢區,False,22.296377,114.271982
+R0101,"Sha Tin Town Hall","沙田大會堂","1 Yuen Wo Road, Sha Tin, New Territories","新界沙田源禾路1號",Sha Tin District,沙田區,False,22.380518,114.1899286
+R0102,"Sha Tin Government Secondary School","沙田官立中學","11-17 Man Lai Road, Sha Tin, New Territories","新界沙田文禮路11-17號",Sha Tin District,沙田區,False,22.376397,114.1846486
+R0201,"Lek Yuen Community Hall","瀝源社區會堂","Lek Yuen Estate, Sha Tin, New Territories","新界沙田瀝源邨",Sha Tin District,沙田區,False,22.3853356,114.1918667
+R0301,"Wo Che Community Hall","禾輋社區會堂","Podium Level, Wo Che Shopping Centre, Wo Che Estate, Sha Tin, New Territories","新界沙田禾輋邨禾輋商場平台",Sha Tin District,沙田區,False,22.387495,114.195638
+R0401,"Baptist Lui Ming Choi Primary School","浸信會呂明才小學","2 Tak Wing Street, City One, Sha Tin, New Territories","新界沙田第一城得榮街2號",Sha Tin District,沙田區,False,22.387941,114.2022289
+R0501,"Pentecostal Lam Hon Kwong School","五旬節林漢光中學","Yue Tin Court, Sha Tin, New Territories","新界沙田愉田苑",Sha Tin District,沙田區,False,22.3828543,114.20262
+R0601,"Chi Hong Primary School","慈航學校","1 Yuen Cheong Lane, Sha Tin, New Territories","新界沙田源昌里1號",Sha Tin District,沙田區,False,22.3819895,114.1970331
+R0602,"Belair Gardens Shopping Arcade 1/F Footbridge","富豪花園商場一樓富豪橋有蓋走廊","Belair Gardens, 52 Tai Chung Kiu Road, Sha Tin, New Territories","新界沙田大涌橋路52號富豪花園",Sha Tin District,沙田區,False,22.3841175,114.1979744
+R0701,"Buddhist Kok Kwong Secondary School","佛教覺光法師中學","Sha Kok Estate, Sha Tin, New Territories","新界沙田沙角邨",Sha Tin District,沙田區,False,22.3790925,114.1959266
+R0801,"Pok Hong Community Hall","博康社區會堂","Pok Hong Estate, Sha Tin, New Territories","新界沙田博康邨",Sha Tin District,沙田區,False,22.3749049,114.1930006
+R0901,"Sha Tin Wai Dr. Catherine F. Woo Memorial School","沙田圍胡素貞博士紀念學校","2 Jat Min Chuen Street, Sha Tin, New Territories","新界沙田乙明邨街2號",Sha Tin District,沙田區,False,22.375551,114.191128
+R1001,"Chun Shek Community Hall","秦石社區會堂","Chun Shek Estate, Sha Tin, New Territories","新界沙田秦石邨",Sha Tin District,沙田區,False,22.3734582,114.1864793
+R1101,"Sun Tin Wai Community Hall","新田圍社區會堂","Sun Tin Wai Estate, Sha Tin, New Territories","新界沙田新田圍邨",Sha Tin District,沙田區,False,22.3700052,114.1864083
+R1201,"Kowloon City Baptist Church Hay Nien (Yan Ping) Primary School","九龍城浸信會禧年 (恩平) 小學","Phase 2, Sun Chui Estate, Tai Wai, Sha Tin, New Territories","新界沙田大圍新翠邨第2期校舍",Sha Tin District,沙田區,False,22.368808,114.18206
+R1301,"CUHK FAA Thomas Cheung School","香港中文大學校友會聯會張煊昌學校","Ka Tin Court, Hin Keng Estate, Sha Tin, New Territories","新界沙田顯徑邨嘉田苑",Sha Tin District,沙田區,False,22.360732,114.172507
+R1302,"Hin Keng Sports Centre","顯徑體育館","Hin Keng Shopping Centre, Hin Keng Estate, Sha Tin, New Territories","新界沙田顯徑邨顯徑商場",Sha Tin District,沙田區,False,22.362908,114.171565
+R1401,"Mei Tin Community Hall","美田社區會堂","9 Mei Mun Lane, Tai Wai, Sha Tin, New Territories","新界沙田大圍美滿里9號",Sha Tin District,沙田區,False,22.3762015,114.1724711
+R1501,"GCCITKD Lau Pak Lok Secondary School","東莞工商總會劉百樂中學","1 Chik Tai Lane, Tai Wai, Sha Tin, New Territories","新界沙田大圍積泰里1號",Sha Tin District,沙田區,False,22.3725659,114.1755984
+R1601,"Hin Keng Neighbourhood Community Centre","顯徑鄰里社區中心","5 Hin Wo Lane, Sha Tin, New Territories","新界沙田顯和里5號",Sha Tin District,沙田區,False,22.366677,114.174858
+R1602,"Choi Jun School","才俊學校","2 Hin Tai Street, Sha Tin, New Territories","新界沙田顯泰街2號",Sha Tin District,沙田區,False,22.363463,114.176897
+R1701,"Lung Hang Estate Community Centre","隆亨社區中心","Lung Hang Estate, Sha Tin, New Territories","新界沙田隆亨邨",Sha Tin District,沙田區,False,22.365241,114.178431
+R1801,"GCCITKD Cheong Wong Wai Primary School","東莞工商總會張煌偉小學","2 Chui Tin Street, Sun Chui Estate, Sha Tin, New Territories","新界沙田翠田街2號新翠邨",Sha Tin District,沙田區,False,22.3682899,114.1811447
+R1901,"Buddhist Wong Wan Tin College","佛教黃允畋中學","Mei Lam Estate, Tai Wai, Sha Tin, New Territories","新界沙田大圍美林邨",Sha Tin District,沙田區,False,22.3780706,114.1775983
+R1902,"Tai Wai Village Office","大圍村村公所","38 First Street, Tai Wai, Sha Tin, New Territories","新界沙田大圍第一街38號",Sha Tin District,沙田區,False,22.375254,114.179207
+R2001,"Lock Tao Secondary School","樂道中學","Mei Lam Estate, Tai Wai, Sha Tin, New Territories","新界沙田大圍美林邨",Sha Tin District,沙田區,False,22.3780706,114.1775983
+R2002,"ELCHK Shatin Lutheran Kindergarten","基督教香港信義會沙田信義幼稚園","1 Tung Lo Wan Hill Road, Tai Wai, Sha Tin, New Territories","新界沙田大圍銅鑼灣山路1號",Sha Tin District,沙田區,False,22.3784044,114.1803122
+R2101,"PLK Siu Hon Sum Primary School","保良局蕭漢森小學","Area 42A, Sui Wo Court, Sha Tin, New Territories","新界沙田穗禾苑42A地段",Sha Tin District,沙田區,False,22.393402,114.194892
+R2201,"Jockey Club Ti-I College","賽馬會體藝中學","5-7 Lok King Street, Fo Tan, Sha Tin, New Territories","新界沙田火炭樂景街5-7號",Sha Tin District,沙田區,False,22.3931561,114.1981837
+R2301,"John Fulton Centre, The Chinese University of Hong Kong","香港中文大學富爾敦樓","Room 103, John Fulton Centre, The Chinese University of Hong Kong, Sha Tin, New Territories","新界沙田香港中文大學富爾敦樓103室",Sha Tin District,沙田區,False,22.418321,114.204594
+R2302,"Yan Oi Tong H.K. Toi Shan Association Elderly Centre","仁愛堂香港台山商會長者活動中心","G/F, 1 Tsun King Road, Royal Ascot, Fo Tan, Sha Tin, New Territories","新界沙田火炭駿景園駿景路1號地下",Sha Tin District,沙田區,False,22.3998145,114.2021536
+R2401,"Christian Alliance Toi Shan H. C. Chan Primary School","宣道會台山陳元喜小學","Chung On Estate, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山頌安邨",Sha Tin District,沙田區,False,22.4220745,114.2258372
+R2501,"CUHKFAA Chan Chun Ha Secondary School","香港中文大學校友會聯會陳震夏中學","632 Sai Sha Road, Chung On Estate, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山西沙路632號頌安邨",Sha Tin District,沙田區,False,22.4235326,114.2265229
+R2601,"Hong Kong Taoist Association Shun Yeung Primary School","香港道教聯合會純陽小學","30 On Chun Street, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山鞍駿街30號",Sha Tin District,沙田區,False,22.4262524,114.2282872
+R2801,"Caritas Ma On Shan Secondary School","明愛馬鞍山中學","2 Kam Ying Road, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山錦英路2號",Sha Tin District,沙田區,False,22.425517,114.2390941
+R2901,"Lee On Community Hall","利安社區會堂","Lee On Community Services Complex, 23 Sha On Street, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山沙安街23號馬鞍山利安社區服務大樓",Sha Tin District,沙田區,False,22.4264939,114.2409519
+R3001,"Ng Clan's Association Tai Pak Memorial School","吳氏宗親總會泰伯紀念學校","Kam Ying Court, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山錦英苑",Sha Tin District,沙田區,False,22.423078,114.235728
+R3002,"TWGHs Wong Fung Ling College","東華三院黃鳳翎中學","208 Ma On Shan Road, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山馬鞍山路208號",Sha Tin District,沙田區,False,22.4233785,114.2343401
+R3101,"PLK Chong Kee Ting Primary School","保良局莊啟程小學","Yiu On Estate, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山耀安邨",Sha Tin District,沙田區,False,22.4190818,114.2314528
+R3201,"Ma On Shan St. Joseph's Primary School","馬鞍山聖若瑟小學","Estate Primary School No.1, Heng On Estate, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山恒安邨第1座校舍",Sha Tin District,沙田區,False,22.417032,114.230614
+R3202,"Heng On Estate Community Centre","恒安社區中心","Heng On Estate, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山恒安邨",Sha Tin District,沙田區,False,22.4172857,114.2275307
+R3301,"Tak Sun Secondary School","德信中學","27 Ning Tai Road, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山寧泰路27號",Sha Tin District,沙田區,False,22.4103776,114.2219951
+R3401,"SKH Ma On Shan Holy Spirit Primary School","聖公會馬鞍山主風小學","35 Ning Tai Road, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山寧泰路35號",Sha Tin District,沙田區,False,22.407039,114.220237
+R3402,"The ELCHK Ma On Shan Lutheran Primary School","基督教香港信義會馬鞍山信義學校","Estate Primary School No. 2, Heng On Estate, Ma On Shan, Sha Tin, New Territories","新界沙田馬鞍山恒安邨第2校舍",Sha Tin District,沙田區,False,22.4172857,114.2275307
+R3501,"Lam Tai Fai College","林大輝中學","25 Ngan Shing Street, Sha Tin, New Territories","新界沙田銀城街25號",Sha Tin District,沙田區,False,22.3814529,114.2031725
+R3601,"Leung Kui Kau Lutheran Primary School","路德會梁鉅鏐小學","5 On King Street, Sha Tin, New Territories","新界沙田安景街5號",Sha Tin District,沙田區,False,22.3921675,114.2057695
+R3602,"Hong Kong Baptist University Affiliated School Wong Kam Fai Secondary and Primary School","香港浸會大學附屬學校王錦輝中小學","6 On Muk Lane, Shek Mun, Sha Tin, New Territories","新界沙田石門安睦里6號",Sha Tin District,沙田區,False,22.387244,114.209687
+R3701,"LKWFSL Wong Yiu Nam Primary School","世界龍岡學校黃耀南小學","Phase 1, Kwong Yuen Estate, Sha Tin, New Territories","新界沙田廣源邨第1期",Sha Tin District,沙田區,False,22.3800942,114.2149823
+R3801,"Kwong Yuen Community Hall","廣源社區會堂","Kwong Yuen Estate, Sha Tin, New Territories","新界沙田廣源邨",Sha Tin District,沙田區,False,22.3800942,114.2149823
+S0101,"CNEC Ta Tung School","中華傳道會許大同學校","Kwai Hing Estate, Kwai Chung, New Territories","新界葵涌葵興邨",Kwai Tsing District,葵青區,False,22.3661224,114.1324162
+S0201,"ELCHK Kwai Shing Lutheran Primary School","基督教香港信義會葵盛信義學校","Kwai Shing East Estate, Kwai Chung, New Territories","新界葵涌葵盛東邨",Kwai Tsing District,葵青區,False,22.364818,114.122769
+S0301,"Yan Oi Tong Pang Hung Cheung Kindergarten","仁愛堂彭鴻樟幼稚園","G/F, Fu Tai House, Tai Wo Hau Estate, Kwai Chung, New Territories","新界葵涌大窩口邨富泰樓地下",Kwai Tsing District,葵青區,False,22.368829,114.124002
+S0401,"Buddhist Lam Bing Yim Memorial School (Sponsored by the Hong Kong Buddhist Association)","佛教林炳炎紀念學校(香港佛教聯合會主辦)","33 Tai Ha Street, Kwai Chung, New Territories","新界葵涌大廈街33號",Kwai Tsing District,葵青區,False,22.3696752,114.1235964
+S0501,"CCC Chuen Yuen College","中華基督教會全完中學","15 Sheung Kok Street, Kwai Chung Estate, Kwai Chung, New Territories","新界葵涌葵涌邨上角街15號",Kwai Tsing District,葵青區,False,22.368165,114.1280889
+S0601,"CCC Chuen Yuen Kindergarten","中華基督教會全完幼稚園","Unit 4, Podium Level 3, Kwai Chung Shopping Centre, Kwai Chung Estate, Kwai Chung, New Territories","新界葵涌葵涌邨葵涌商場3樓平台4號",Kwai Tsing District,葵青區,False,22.367447,114.127733
+S0602,"SKH Lam Woo Memorial Secondary School","聖公會林護紀念中學","397 Kwai Shing Circuit, Kwai Chung, New Territories","新界葵涌葵盛圍397號",Kwai Tsing District,葵青區,False,22.3650536,114.1304939
+S0701,"SKH Chu Oi Primary School","聖公會主愛小學","45 Tung Chi Street, Shek Yam, Kwai Chung, New Territories","新界葵涌石蔭童子街45號",Kwai Tsing District,葵青區,False,22.371058,114.139691
+S0801,"Salesian Yip Hon Primary School","慈幼葉漢小學","On Yam Estate, Kwai Chung, New Territories","新界葵涌安蔭邨",Kwai Tsing District,葵青區,False,22.3708782,114.1420775
+S0901,"Shek Lei (I) Estate Indoor Activity Room","石籬 (一) 邨室內活動室","Activity Room No. 1, Carpark 1, Shek Lei (I) Estate, New Territories","新界石籬(一)邨1號停車場1號活動室",Kwai Tsing District,葵青區,False,22.364908,114.138374
+S1001,"Shek Lei Community Hall","石籬社區會堂","2 Tai Pak Tin Street, Kwai Chung, New Territories","新界葵涌大白田街2號",Kwai Tsing District,葵青區,False,22.3665805,114.1392869
+S1101,"HKTA The Yuen Yuen Institute No. 1 Secondary School","香港道教聯合會圓玄學院第一中學","42 Wo Yi Hop Road, Kwai Chung, New Territories","新界葵涌和宜合道42號",Kwai Tsing District,葵青區,False,22.3664785,114.1382619
+S1201,"Buddhist Lim Kim Tian Memorial Primary School","佛教林金殿紀念小學","Estate School, Phase 5, Kwai Fong Estate, Kwai Chung, New Territories","新界葵涌葵芳邨第5期屋邨校舍",Kwai Tsing District,葵青區,False,22.3585969,114.129029
+S1301,"G/F, Conference Room, Northern Car Park, Wonderland Villas","華景山莊北停車場地下會議室","Wonderland Villas, 9 Wah King Hill Road, Kwai Chung, New Territories","新界葵涌華景山路9號華景山莊",Kwai Tsing District,葵青區,False,22.352307,114.136324
+S1302,"Carmel Alison Lam Foundation Secondary School","迦密愛禮信中學","4 Wah King Hill Road, Kwai Chung, New Territories","新界葵涌華景山路4號",Kwai Tsing District,葵青區,False,22.3506784,114.1336865
+S1303,"TWGHs Ko Ho Ning Memorial Primary School","東華三院高可寧紀念小學","Estate School No.1, Lai Yiu Estate, Kwai Chung, New Territories","新界葵涌麗瑤邨小學屋邨校舍第1座",Kwai Tsing District,葵青區,False,22.3532393,114.1297686
+S1401,"CCC Kei Chun Primary School","中華基督教會基真小學","11 Wa Lai Path, Kwai Chung, New Territories","新界葵涌華荔徑11號",Kwai Tsing District,葵青區,False,22.3425572,114.1362035
+S1501,"The HKSYC&IA Chan Nam Chong Memorial College","香港四邑商工總會陳南昌紀念中學","12 King Cho Road, Cho Yiu Chuen, Kwai Chung, New Territories","新界葵涌祖堯邨敬祖路12號",Kwai Tsing District,葵青區,False,22.345734,114.128304
+S1601,"Kwai Fong Community Hall","葵芳社區會堂","2 Lai Fong Street, Kwai Chung, New Territories","新界葵涌禮芳街2號",Kwai Tsing District,葵青區,False,22.3596272,114.127283
+S1701,"Lai King Community Hall","荔景社區會堂","205 Lai King Hill Road, Kwai Chung, New Territories","新界葵涌荔景山路205號",Kwai Tsing District,葵青區,False,22.3468758,114.1266002
+S1801,"Kwai Shing Community Hall","葵盛社區會堂","Podium, Block 6, Kwai Shing West Estate, Kwai Chung, New Territories","新界葵涌葵盛西邨第6座平台",Kwai Tsing District,葵青區,False,22.36433,114.12708
+S1901,"Delia (Man Kiu) English Primary School","地利亞(閩僑)英文小學","Phase 2, Cheung On Estate, Tsing Yi, New Territories","新界青衣長安邨第2期",Kwai Tsing District,葵青區,False,22.36125,114.104775
+S1902,"CCC Yenching College","中華基督教會燕京書院","12 Nga Ying Chau Street, Tsing Yi, New Territories","新界青衣牙鷹洲街12號",Kwai Tsing District,葵青區,False,22.3624056,114.1053389
+S2001,"SKH Tsing Yi Estate Ho Chak Wan Primary School","聖公會青衣邨何澤芸小學","3 Tsing Luk Street, Tsing Yi, New Territories","新界青衣青綠街3號",Kwai Tsing District,葵青區,False,22.3555319,114.1044395
+S2101,"Tsuen Wan Trade Association Primary School","荃灣商會學校","Phase 1, Area 1, Tsing Yi Estate, Tsing Yi, New Territories","新界青衣青衣邨第1期第1區",Kwai Tsing District,葵青區,False,22.353978,114.102734
+S2201,"TWGHs S. C. Gaw Memorial College","東華三院吳祥川紀念中學","7 Tsing Sum Street, Town Centre, Tsing Yi, New Territories","新界青衣市中心清心街7號",Kwai Tsing District,葵青區,False,22.3476872,114.1106972
+S2202,"PLK Castar Primary School","保良局世德小學","23 Tsing Luk Street, Tsing Yi, New Territories","新界青衣青綠街23號",Kwai Tsing District,葵青區,False,22.3547091,114.1065476
+S2301,"Cheung Ching Estate Community Centre","長青社區中心","6 Ching Hong Road, Tsing Yi, New Territories","新界青衣青康路6號",Kwai Tsing District,葵青區,False,22.3488235,114.1069051
+S2302,"Study Room, Mayfair Gardens","美景花園自修室","Study Room, L3, Block 11, Mayfair Gardens, 2-16 Sai Shan Road, Tsing Yi, New Territories","新界青衣細山路2-16號美景花園第11座L3層",Kwai Tsing District,葵青區,False,22.3435735,114.1069931
+S2401,"Tsing Yi Trade Association Primary School","青衣商會小學","12 Ching Hong Road, Cheung Hong Estate, Tsing Yi, New Territories","新界青衣長康邨青康路12號",Kwai Tsing District,葵青區,False,22.3501628,114.1047848
+S2402,"Tsing Yi Trade Association Kindergarten","青衣商會幼稚園","G/F, Carpark Building, Ching Wah Court, Tsing Yi, New Territories","新界青衣青華苑停車場大廈地下",Kwai Tsing District,葵青區,False,22.349046,114.099508
+S2501,"Lok Sin Tong Leung Chik Wai Memorial School","樂善堂梁植偉紀念中學","Phase 5, Cheung Hong Estate, Tsing Yi, New Territories","新界青衣長康邨第5期",Kwai Tsing District,葵青區,False,22.349684,114.106805
+S2601,"Rambler Crest Club House","藍澄會","Level 5 & 6, Tower 1, 1 Tsing Yi Road, Tsing Yi, New Territories","新界青衣青衣路1號第1座5樓及6樓",Kwai Tsing District,葵青區,False,22.3421125,114.1099949
+S2602,"SKH Tsing Yi Chu Yan Primary School","聖公會青衣主恩小學","Cheung Wang Estate, Tsing Yi, New Territories","新界青衣長宏邨",Kwai Tsing District,葵青區,False,22.356391,114.096219
+S2701,"Cheung Hang Community Hall","長亨社區會堂","Cheung Hang Estate, Phase II, Tsing Yi, New Territories","新界青衣長亨邨第2期",Kwai Tsing District,葵青區,False,22.356577,114.097831
+S2801,"Cheung Fat Estate Community Centre","長發社區中心","6 Tam Kon Shan Road, Tsing Yi, New Territories","新界青衣担杆山路6號",Kwai Tsing District,葵青區,False,22.362425,114.103339
+S2901,"CNEC Lui Ming Choi Primary School","中華傳道會呂明才小學","Cheung Fat Estate, Tsing Yi, New Territories","新界青衣長發邨",Kwai Tsing District,葵青區,False,22.3628115,114.1033945
+T0101,"CCC Tai O Primary School","中華基督教會大澳小學","24-26 Market Street, Tai O, Lantau Island, New Territories","新界大嶼山大澳街市街24-26號",Islands District,離島區,False,22.2543786,113.8617886
+T0102,"Sha Lo Wan Village Office","沙螺灣鄉公所","17 Chung Hou, Sha Lo Wan, Lantau Island, New Territories","新界大嶼山沙螺灣涌口17號",Islands District,離島區,True,22.2889766,113.9202585
+T0103,"Tai O San Tau Village Village Office","大澳䃟頭村村公所","Flat 2D, San Tau Village, Tai O, Lantau Island, New Territories","新界大嶼山大澳䃟頭村2D",Islands District,離島區,True,22.2582479,113.8599609
+T0104,"Auxiliary Medical Service Tung Chung Training Centre","醫療輔助隊東涌訓練中心","1 Ha Ling Pei, Tung Chung, Lantau Island, New Territories","新界大嶼山東涌下嶺皮1號",Islands District,離島區,False,22.2576167,113.9401086
+T0105,"Ngau Kwu Long Sam Heung Co-operative Society","牛牯塱三鄉合作社","25 Tai Ho San Tsuen, Lantau Island, New Territories","新界大嶼山大蠔新村25號",Islands District,離島區,True,22.2621076,114.0031629
+T0106,"Tai O Room, Po Lin Monastery","寶蓮禪寺大澳廳","Po Lin Monastery, Ngong Ping Road, Ngong Ping, Lantau Island, New Territories","新界大嶼山昂坪昂平路寶蓮禪寺",Islands District,離島區,True,22.2555145,113.9078992
+T0107,"Mui Wo Sports Centre","梅窩體育館","1/F, Mui Wo Municipal Services Building, 9 Ngan Shek Street, Lantau Island, New Territories","新界大嶼山銀石街9號梅窩市政大廈1樓",Islands District,離島區,False,22.2670149,113.9965449
+T0108,"Tong Fuk Village Office","塘福鄉公所","G/F, 33 Tong Fuk, South Lantau Road, Lantau Island, New Territories","新界大嶼山嶼南道塘福33號地下",Islands District,離島區,True,22.2336216,113.9596724
+T0109,"Bui O Public School","杯澳公立學校","2 Lo Uk Village, Pui O, Lantau Island, New Territories","新界大嶼山貝澳羅屋村2號",Islands District,離島區,False,22.2459975,113.9802036
+T0201,"Tung Chung Catholic School","東涌天主教學校","Yat Tung (2) Estate, 8 Yat Tung Street, Tung Chung, Lantau Island, New Territories","新界大嶼山東涌逸東街8號逸東(二)邨",Islands District,離島區,False,22.2809839,113.9384085
+T0301,"HKFEW Wong Cho Bau School","香港教育工作者聯會黃楚標學校","Yat Tung (1) Estate, Tung Chung, Lantau Island, New Territories","新界大嶼山東涌逸東(一)邨",Islands District,離島區,False,22.2804345,113.9373721
+T0401,"Tung Chung Community Hall","東涌社區會堂","G/F, Tung Chung Municipal Services Building, 39 Man Tung Road, Tung Chung, Lantau Island, New Territories","新界大嶼山東涌文東路39號東涌市政大樓地下",Islands District,離島區,False,22.2906065,113.9443034
+T0501,"HKFEW Wong Cho Bau Secondary School","香港教育工作者聯會黃楚標中學","Area 10, Phase 3, Fu Tung Estate, Tung Chung, Lantau Island, New Territories","新界大嶼山東涌富東邨第3期第10區",Islands District,離島區,False,22.2883,113.944403
+T0601,"Discovery Bay Community Hall","愉景灣社區會堂","99 Siena Avenue, Discovery Bay, Lantau Island, New Territories","新界大嶼山愉景灣海澄湖畔路99號",Islands District,離島區,False,22.3084425,114.0157585
+T0701,"Peng Chau Sports Centre","坪洲體育館","Peng Chau Municipal Services Building, 6 Po Peng Street, Peng Chau, New Territories","新界坪洲寶坪街6號坪洲市政大廈",Islands District,離島區,False,22.2849155,114.0380804
+T0801,"Lamma Island (North) Rural Committee","南丫島北段鄉事委員會","21 Yung Shue Wan Main Street, Lamma Island, New Territories","新界南丫島榕樹灣大街21號",Islands District,離島區,False,22.2265361,114.1115121
+T0802,"Sok Kwu Wan General Out-patient Clinic","索罟灣普通科門診診所","G/F, 1 Second Street, Sok Kwu Wan, Lamma Island, New Territories","新界南丫島索罟灣第二街1號地下",Islands District,離島區,True,22.205566,114.1316005
+T0901,"Buddhist Wai Yan Memorial College","佛教慧因法師紀念中學","25 Tai Hing Tai Road, Cheung Chau, New Territories","新界長洲大興堤路25號",Islands District,離島區,False,22.2050958,114.0261166
+T0902,"Caritas Chan Chun Ha Field Studies Centre (St. Paul Campus)","明愛陳震夏郊野學園(聖保祿校舍)","C.C. Lot No.1139, Lung Tsai Tsuen, Cheung Chau, New Territories","新界長洲長洲地段1139號龍仔村",Islands District,離島區,False,22.207339,114.037743
+T1001,"Cheung Chau Sports Centre","長洲體育館","3 Cheung Chau Hospital Road, Cheung Chau, New Territories","新界長洲長洲醫院路3號",Islands District,離島區,False,22.2079255,114.0312114
+T1002,"Kwok Man School","國民學校","30 Kwok Man Road, Cheung Chau, New Territories","新界長洲國民路30號",Islands District,離島區,False,22.2108114,114.0294314
+U0101,"Cape Collinson Correctional Institution","歌連臣角懲教所","123 Cape Collinson Road, Chai Wan, Hong Kong","香港柴灣歌連臣角道123號",Dedicated Polling Stations,專用投票站,True,22.2505634,114.2536674
+U0104,"Nei Kwu Correctional Institution","勵顧懲教所","Hei Ling Chau Island","喜靈洲",Dedicated Polling Stations,專用投票站,True,22.2539811,114.0398808
+U0105,"Hei Ling Chau Correctional Institution","喜靈洲懲教所","Hei Ling Chau Island","喜靈洲",Dedicated Polling Stations,專用投票站,True,22.2539811,114.0398808
+U0106,"Hei Ling Chau Addiction Treatment Centre","喜靈洲戒毒所","Hei Ling Chau Island","喜靈洲",Dedicated Polling Stations,專用投票站,True,22.2539811,114.0398808
+U0108,"Lai Chi Kok Reception Centre","荔枝角收押所","5 Butterfly Valley Road, Kowloon","九龍蝴蝶谷道5號",Dedicated Polling Stations,專用投票站,True,22.337148,114.142763
+U0109,"Lai King Correctional Institution","勵敬懲教所","16 Wa Tai Road, Kwai Chung, New Territories","新界葵涌華泰路16號",Dedicated Polling Stations,專用投票站,True,22.3460681,114.1331817
+U0110,"Lai Sun Correctional Institution","勵新懲教所","Hei Ling Chau Island","喜靈洲",Dedicated Polling Stations,專用投票站,True,22.2539811,114.0398808
+U0112,"Tong Fuk Correctional Institution","塘福懲教所","31 Ma Po Ping Road, Lantau Island","大嶼山蔴埔坪道31號",Dedicated Polling Stations,專用投票站,True,22.2277734,113.9272885
+U0113,"Pak Sha Wan Correctional Institution","白沙灣懲教所","101 Tung Tau Wan Road, Stanley, Hong Kong","香港赤柱東頭灣道101號",Dedicated Polling Stations,專用投票站,True,22.2131571,114.2202069
+U0114,"Pik Uk Correctional Institution","壁屋懲教所","399 Clearwater Bay Road, Sai Kung, New Territories","新界西貢清水灣道399號",Dedicated Polling Stations,專用投票站,True,22.3394909,114.2454875
+U0115,"Pik Uk Prison","壁屋監獄","397 Clearwater Bay Road, Sai Kung, New Territories","新界西貢清水灣道397號",Dedicated Polling Stations,專用投票站,True,22.3223279,114.2695449
+U0116,"Stanley Prison","赤柱監獄","99 Tung Tau Wan Road, Stanley, Hong Kong","香港赤柱東頭灣道99號",Dedicated Polling Stations,專用投票站,True,22.214378,114.2182547
+U0117,"Stanley Prison (Category A Complex)","赤柱監獄(甲類囚犯綜合大樓)","99 Tung Tau Wan Road, Stanley, Hong Kong","香港赤柱東頭灣道99號",Dedicated Polling Stations,專用投票站,True,22.214378,114.2182547
+U0118,"Siu Lam Psychiatric Centre","小欖精神病治療中心","21 Hong Fai Road, Siu Lam, New Terrorities","新界小欖康輝路21號",Dedicated Polling Stations,專用投票站,True,22.3669213,114.0161936
+U0119,"Shek Pik Prison","石壁監獄","47 Shek Pik Reservoir Road, Lantau Island","大嶼山石壁水塘道47號",Dedicated Polling Stations,專用投票站,True,22.2234956,113.8962176
+U0120,"Sha Tsui Correctional Institution","沙咀懲教所","35 Shek Pik Reservoir Road, Lantau Island","大嶼山石壁水塘道35號",Dedicated Polling Stations,專用投票站,True,22.2254519,113.8923358
+U0121,"Tai Lam Correctional Institution","大欖懲教所","108 Tai Lam Chung Road, Tai Lam Chung, New Territories","新界大欖涌大欖涌道108號",Dedicated Polling Stations,專用投票站,True,22.3716954,114.0248157
+U0122,"Tai Lam Centre for Women","大欖女懲教所","110 Tai Lam Chung Road, Tuen Mun, New Territories","新界屯門大欖涌道110號",Dedicated Polling Stations,專用投票站,True,22.3716954,114.0248157
+U0123,"Tung Tau Correctional Institution","東頭懲教所","70 Tung Tau Wan Road, Stanley, Hong Kong","香港赤柱東頭灣道70號",Dedicated Polling Stations,專用投票站,True,22.2119865,114.2174035
+U0124,"Tai Tam Gap Correctional Institution","大潭峽懲教所","110 Shek O Road, Hong Kong","香港石澳道110號",Dedicated Polling Stations,專用投票站,True,22.2565829,114.231851
+U0125,"Lo Wu Correctional Institution","羅湖懲教所","163 Ho Sheung Heung Road, Sheung Shui, New Territories","新界上水河上鄉路163號",Dedicated Polling Stations,專用投票站,True,22.517421,114.1111475
+U0201,"Happy Valley Police Station","跑馬地警署","60 Sing Woo Road, Happy Valley, Hong Kong","香港跑馬地成和道60號",Dedicated Polling Stations,專用投票站,True,22.2670675,114.1870271
+U0202,"Cheung Sha Wan Police Station","長沙灣警署","880 Lai Chi Kok Road, Kowloon","九龍荔枝角道880號",Dedicated Polling Stations,專用投票站,True,22.3354745,114.1465344
+U0203,"Tin Sum Police Station","田心警署","2 Hin Keng Street, Sha Tin, New Territories","新界沙田顯徑街2號",Dedicated Polling Stations,專用投票站,True,22.366143,114.1760203
